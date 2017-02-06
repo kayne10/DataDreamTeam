@@ -1,0 +1,2 @@
+# Bigdataarch
+Group project for Big Data Architecture class at CU Boulder  Twitter Dev Account Credentials:  atls 4280 //// NotBot123  Keys: //////////////////////////// Consumer Key (API Key) RVsESV3A0hCi5wBiZmV5bJRn3 //////////////////////////////////////// Consumer Secret (API Secret) z8VcD5P1JMnPuC61sslnMYgtRNg4err2nZX3YTsPgMogeGYV8V /////////////////////////// Access Token 828689526373560320-7GDNGOMNpCFVJdGOCf7swCxLc4lB585 /////////////////////////////// Access Token Secret FKtjnr2MV7HtUxNjboBgHJrn27OZGUFaguHWYKRG6uLqR /////////////////////////////////////////
