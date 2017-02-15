@@ -15,10 +15,10 @@ import sys
 
 #consumer key, secret and access secret and token
 #found on dev.twitter.com
-ckey = "RVsESV3A0hCi5wBiZmV5bJRn3"
-csecret = "z8VcD5P1JMnPuC61sslnMYgtRNg4err2nZX3YTsPgMogeGYV8V"
-atoken = "828689526373560320-7GDNGOMNpCFVJdGOCf7swCxLc4lB585"
-asecret = "FKtjnr2MV7HtUxNjboBgHJrn27OZGUFaguHWYKRG6uLqR"
+ckey = 
+csecret = 
+atoken = 
+asecret = 
 
 #a rough bounding box of USA, Hawaii, and Alaska
 UNITED_STATES = [-125.9,24.1,-66.3,49.3]
