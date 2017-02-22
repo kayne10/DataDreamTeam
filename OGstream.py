@@ -2,6 +2,7 @@
 #got tips and some help from CU's 3308, team Vision Dev team, in repos I have contributed to
 #got tips from
 #http://pythoncentral.io/introduction-to-tweepy-twitter-for-python/
+import ConfigParser
 from tweepy import Stream
 from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener
@@ -11,14 +12,20 @@ import time
 import random
 import sys
 
-
+# Read config file to access API keys
+cfg = ConfigParser.ConfigParser()
+cfg.read('config.ini')
+tweepy_ckey = cfg.get('Tweepy_Keys','ckey')
+tweepy_csecret = cfg.get('Tweepy_Keys','csecret')
+tweepy_atoken = cfg.get('Tweepy_Keys','atoken')
+tweepy_asecret = cfg.get('Tweepy_Keys','asecret')
 
 #consumer key, secret and access secret and token
 #found on dev.twitter.com
-ckey = 
-csecret = 
-atoken = 
-asecret = 
+ckey = tweepy_ckey
+csecret = tweepy_csecret
+atoken = tweepy_atoken
+asecret = tweepy_asecret
 
 #a rough bounding box of USA, Hawaii, and Alaska
 UNITED_STATES = [-125.9,24.1,-66.3,49.3]
