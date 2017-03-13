@@ -1,4 +1,4 @@
-<h1>Data Dream Team></h1>
+<h1>Data Dream Team</h1>
 
 <h3>Team Members</h3>
 <ul>
