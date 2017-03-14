@@ -15,6 +15,7 @@
   <li>CassandraDB</li>
   <li>Node</li>
   <li>d3</li>
+  <li>LSA.py</li>
 </ul>
 
 <h2>Project Vision</h2>
