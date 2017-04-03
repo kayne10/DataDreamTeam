@@ -1,0 +1,2558 @@
+{
+  "results": [
+    {
+      "created_at": "Wed Mar 22 01:10:57 +0000 2017",
+      "id": 844355687274590200,
+      "id_str": "844355687274590209",
+      "text": "Can you recommend anyone for this #job? Test Consultant - https://t.co/dX66RkTFyl #Software #Dev #Techies #BusinessMgmt #Londrina #Hiring",
+      "source": "<a href=\"http://www.tweetmyjobs.com\" rel=\"nofollow\">TweetMyJOBS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2916751741,
+        "id_str": "2916751741",
+        "name": "CSGI Careers",
+        "screen_name": "CSGICareers",
+        "location": "Englewood, Co",
+        "url": null,
+        "description": "CSG International Delivers Business Solutions to the Majority of the Top 100 Global Communications Service Providers Worldwide. We are Hiring!",
+        "translator_type": "none",
+        "derived": {
+          "locations": [
+            {
+              "country": "United States",
+              "country_code": "US",
+              "locality": "Englewood",
+              "region": "Colorado",
+              "sub_region": "Arapahoe County",
+              "full_name": "Englewood, Colorado, United States",
+              "geo": {
+                "coordinates": [
+                  -104.98776,
+                  39.64777
+                ],
+                "type": "point"
+              }
+            }
+          ]
+        },
+        "protected": false,
+        "verified": false,
+        "followers_count": 440,
+        "friends_count": 589,
+        "listed_count": 419,
+        "favourites_count": 10,
+        "statuses_count": 485,
+        "created_at": "Tue Dec 02 15:23:56 +0000 2014",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/560503709742813184/VwSDAHTS_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/560503709742813184/VwSDAHTS_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2916751741/1448989128",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          -23.3241637,
+          -51.1672872
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -51.1672872,
+          -23.3241637
+        ]
+      },
+      "place": {
+        "id": "8aed51289a235ff4",
+        "url": "https://api.twitter.com/1.1/geo/id/8aed51289a235ff4.json",
+        "place_type": "city",
+        "name": "Londrina",
+        "full_name": "Londrina, Brasil",
+        "country_code": "BR",
+        "country": "Brazil",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -51.324349,
+                -23.853841
+              ],
+              [
+                -51.324349,
+                -23.172202
+              ],
+              [
+                -50.875447,
+                -23.172202
+              ],
+              [
+                -50.875447,
+                -23.853841
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "job",
+            "indices": [
+              34,
+              38
+            ]
+          },
+          {
+            "text": "Software",
+            "indices": [
+              82,
+              91
+            ]
+          },
+          {
+            "text": "Dev",
+            "indices": [
+              92,
+              96
+            ]
+          },
+          {
+            "text": "Techies",
+            "indices": [
+              97,
+              105
+            ]
+          },
+          {
+            "text": "BusinessMgmt",
+            "indices": [
+              106,
+              119
+            ]
+          },
+          {
+            "text": "Londrina",
+            "indices": [
+              120,
+              129
+            ]
+          },
+          {
+            "text": "Hiring",
+            "indices": [
+              130,
+              137
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dX66RkTFyl",
+            "expanded_url": "http://bit.ly/2mubqfH",
+            "display_url": "bit.ly/2mubqfH",
+            "unwound": {
+              "url": "http://www.careerarc.com/job-listing/csg-international-jobs-test-consultant-22024065?campaign_id=19667&cb=0&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC",
+              "status": 200,
+              "title": "Test Consultant in Londrina",
+              "description": "11769 Test Consultant (Open)Position Type:Full timeLocation(s):BR.Londrina.OfficeOrganization:PS - Resources AmericasPosition Details:Responsibilities:Role within WBMS Practice team in Americas reg..."
+            },
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en",
+      "matching_rules": [
+        {
+          "tag": null
+        }
+      ]
+    },
+    {
+      "created_at": "Wed Mar 22 01:10:57 +0000 2017",
+      "id": 844355683852038100,
+      "id_str": "844355683852038144",
+      "text": "Can you recommend anyone for this #job in #Charlottesville, VA? https://t.co/I1JdcqdElj #Sales #Hiring #CareerArc",
+      "source": "<a href=\"http://www.tweetmyjobs.com\" rel=\"nofollow\">TweetMyJOBS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 801144468313374700,
+        "id_str": "801144468313374720",
+        "name": "Lexis Nexis Careers",
+        "screen_name": "JoinLexisNexis",
+        "location": "New York, NY",
+        "url": "http://jobs.lexisnexis.com/",
+        "description": "The official #job feed of LexisNexis®, a leading global provider of legal research & workflow solutions.",
+        "translator_type": "none",
+        "derived": {
+          "locations": [
+            {
+              "country": "United States",
+              "country_code": "US",
+              "region": "New York",
+              "full_name": "New York, United States",
+              "geo": {
+                "coordinates": [
+                  -75.4999,
+                  43.00035
+                ],
+                "type": "point"
+              }
+            }
+          ]
+        },
+        "protected": false,
+        "verified": false,
+        "followers_count": 184,
+        "friends_count": 136,
+        "listed_count": 101,
+        "favourites_count": 0,
+        "statuses_count": 215,
+        "created_at": "Tue Nov 22 19:25:00 +0000 2016",
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "ED1C24",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/801145359074525184/LlAs7RDJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/801145359074525184/LlAs7RDJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/801144468313374720/1479842789",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "job",
+            "indices": [
+              34,
+              38
+            ]
+          },
+          {
+            "text": "Charlottesville",
+            "indices": [
+              42,
+              58
+            ]
+          },
+          {
+            "text": "Sales",
+            "indices": [
+              88,
+              94
+            ]
+          },
+          {
+            "text": "Hiring",
+            "indices": [
+              95,
+              102
+            ]
+          },
+          {
+            "text": "CareerArc",
+            "indices": [
+              103,
+              113
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/I1JdcqdElj",
+            "expanded_url": "http://bit.ly/2mrZlr1",
+            "display_url": "bit.ly/2mrZlr1",
+            "unwound": {
+              "url": "http://www.careerarc.com/job-listing/lexisnexis-legal-professional-jobs-solutions-consultant-nars-21921842?campaign_id=23244&cb=0&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC",
+              "status": 200,
+              "title": "Solutions Consultant NARS in Charlottesville, VA",
+              "description": "Solutions Consultant The Solutions Consultant is responsible for driving revenue, POS, use and preference within assigned accounts and/or territory, covering western suburbs of DC. The Solutions ..."
+            },
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en",
+      "matching_rules": [
+        {
+          "tag": null
+        }
+      ]
+    },
+    {
+      "created_at": "Wed Mar 22 01:10:56 +0000 2017",
+      "id": 844355683432616000,
+      "id_str": "844355683432615937",
+      "text": "If you're looking for work in #Fullerton, CA, check out this #job: https://t.co/PCiCyanHkW #Healthcare #Hiring #CareerArc",
+      "source": "<a href=\"http://tweetmyjobs.com\" rel=\"nofollow\">SafeTweet by TweetMyJOBS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 563319506,
+        "id_str": "563319506",
+        "name": "CVS Health Jobs",
+        "screen_name": "CVSHealthJobs",
+        "location": "United States",
+        "url": "http://jobs.cvshealth.com",
+        "description": "General tweets about open #jobs at #CVS Health only. Connect with our recruiters by following @CVSCareers",
+        "translator_type": "none",
+        "derived": {
+          "locations": [
+            {
+              "country": "United States",
+              "country_code": "US",
+              "full_name": "United States",
+              "geo": {
+                "coordinates": [
+                  -98.5,
+                  39.76
+                ],
+                "type": "point"
+              }
+            }
+          ]
+        },
+        "protected": false,
+        "verified": true,
+        "followers_count": 1860,
+        "friends_count": 21,
+        "listed_count": 1382,
+        "favourites_count": 13,
+        "statuses_count": 80816,
+        "created_at": "Thu Apr 26 00:56:29 +0000 2012",
+        "utc_offset": -36000,
+        "time_zone": "Hawaii",
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "E1E1E1",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/868334035/0818656c44f5bdd58045903722ebb63d.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/868334035/0818656c44f5bdd58045903722ebb63d.jpeg",
+        "profile_background_tile": false,
+        "profile_link_color": "CC0000",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/723209637416169473/kgGiVG6x_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/723209637416169473/kgGiVG6x_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/563319506/1461261294",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          33.8703596,
+          -117.9242966
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -117.9242966,
+          33.8703596
+        ]
+      },
+      "place": {
+        "id": "2feb76248fd9c581",
+        "url": "https://api.twitter.com/1.1/geo/id/2feb76248fd9c581.json",
+        "place_type": "city",
+        "name": "Fullerton",
+        "full_name": "Fullerton, CA",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -117.985941,
+                33.853881
+              ],
+              [
+                -117.985941,
+                33.924814
+              ],
+              [
+                -117.863844,
+                33.924814
+              ],
+              [
+                -117.863844,
+                33.853881
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Fullerton",
+            "indices": [
+              30,
+              40
+            ]
+          },
+          {
+            "text": "job",
+            "indices": [
+              61,
+              65
+            ]
+          },
+          {
+            "text": "Healthcare",
+            "indices": [
+              91,
+              102
+            ]
+          },
+          {
+            "text": "Hiring",
+            "indices": [
+              103,
+              110
+            ]
+          },
+          {
+            "text": "CareerArc",
+            "indices": [
+              111,
+              121
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/PCiCyanHkW",
+            "expanded_url": "http://bit.ly/1SZmbUL",
+            "display_url": "bit.ly/1SZmbUL",
+            "unwound": {
+              "url": "http://www.careerarc.com/job-listing/cvs-health-jobs-pharmacy-technician-target-store-17618775?campaign_id=8990&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC",
+              "status": 200,
+              "title": "Pharmacy Technician - Target Store in Fullerton, CA",
+              "description": "Health is everything. At CVS Health we are committed to increasing access, lowering costs and improving quality of care. Millions of times a day, we're helping people on their path to better health— from advising on prescriptions to helping manage chronic and specialty conditions. Because we're p..."
+            },
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en",
+      "matching_rules": [
+        {
+          "tag": null
+        }
+      ]
+    },
+    {
+      "created_at": "Wed Mar 22 01:10:56 +0000 2017",
+      "id": 844355683327750100,
+      "id_str": "844355683327750144",
+      "text": "If you're looking for work in #Fayetteville, AR, check out this #job: https://t.co/SWhXfD444q #Nursing #Hiring #CareerArc",
+      "source": "<a href=\"http://www.tweetmyjobs.com\" rel=\"nofollow\">TweetMyJOBS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4725256386,
+        "id_str": "4725256386",
+        "name": "UAMS Nursing Jobs",
+        "screen_name": "uamsnurses",
+        "location": "Little Rock, Arkansas",
+        "url": "http://jobs.uams.edu/",
+        "description": "@uamshealth is looking for #healthcare professionals who believe in excellence as a way of life. #nursing #jobs",
+        "translator_type": "none",
+        "derived": {
+          "locations": [
+            {
+              "country": "United States",
+              "country_code": "US",
+              "locality": "Little Rock",
+              "region": "Arkansas",
+              "sub_region": "Pulaski County",
+              "full_name": "Little Rock, Arkansas, United States",
+              "geo": {
+                "coordinates": [
+                  -92.28959,
+                  34.74648
+                ],
+                "type": "point"
+              }
+            }
+          ]
+        },
+        "protected": false,
+        "verified": false,
+        "followers_count": 122,
+        "friends_count": 42,
+        "listed_count": 72,
+        "favourites_count": 3,
+        "statuses_count": 104,
+        "created_at": "Thu Jan 07 21:56:07 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/685220069215834113/nkI9Q6KP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/685220069215834113/nkI9Q6KP_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4725256386/1452790606",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          36.0625795,
+          -94.1574263
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -94.1574263,
+          36.0625795
+        ]
+      },
+      "place": {
+        "id": "e8ad2641c1cb666c",
+        "url": "https://api.twitter.com/1.1/geo/id/e8ad2641c1cb666c.json",
+        "place_type": "admin",
+        "name": "Arkansas",
+        "full_name": "Arkansas, USA",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -94.61771,
+                33.004106
+              ],
+              [
+                -94.61771,
+                36.499767
+              ],
+              [
+                -89.644838,
+                36.499767
+              ],
+              [
+                -89.644838,
+                33.004106
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Fayetteville",
+            "indices": [
+              30,
+              43
+            ]
+          },
+          {
+            "text": "job",
+            "indices": [
+              64,
+              68
+            ]
+          },
+          {
+            "text": "Nursing",
+            "indices": [
+              94,
+              102
+            ]
+          },
+          {
+            "text": "Hiring",
+            "indices": [
+              103,
+              110
+            ]
+          },
+          {
+            "text": "CareerArc",
+            "indices": [
+              111,
+              121
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/SWhXfD444q",
+            "expanded_url": "http://bit.ly/2mXqchU",
+            "display_url": "bit.ly/2mXqchU",
+            "unwound": {
+              "url": "http://www.careerarc.com/job-listing/university-of-arkansas-for-medical-sciences-jobs-lpn-ii-uams-nw-springdale-fayetteville-20328426?campaign_id=18362&cb=0&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC",
+              "status": 200,
+              "title": "LPN II-UAMS NW SPRINGDALE/FAYETTEVILLE in Fayetteville, AR",
+              "description": "Work Hours: Fulltime position: 8A-5P or 7:45A-4:45P, Monday throughFriday.Position Location: Area Health Education Center-Northwest-Springdale/Fayetteville, Arkansas.Job Duties: The Licensed Pract..."
+            },
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en",
+      "matching_rules": [
+        {
+          "tag": null
+        }
+      ]
+    },
+    {
+      "created_at": "Wed Mar 22 01:10:55 +0000 2017",
+      "id": 844355678294622200,
+      "id_str": "844355678294622208",
+      "text": "Can you recommend anyone for this #job in #Singapore? https://t.co/N87qmHBOlh #SupplyChain #Hiring #CareerArc",
+      "source": "<a href=\"http://www.tweetmyjobs.com\" rel=\"nofollow\">TweetMyJOBS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 41029688,
+        "id_str": "41029688",
+        "name": "TMJ-SGP Jobs",
+        "screen_name": "tmj_sgp_jobs",
+        "location": "Singapore",
+        "url": "http://www.careerarc.com/job-seeker",
+        "description": "Follow this account for geo-targeted Other job tweets in Singapore. Need help? Tweet us at @CareerArc!",
+        "translator_type": "none",
+        "derived": {
+          "locations": [
+            {
+              "country": "Singapore",
+              "country_code": "SG",
+              "full_name": "Singapore",
+              "geo": {
+                "coordinates": [
+                  103.8,
+                  1.36667
+                ],
+                "type": "point"
+              }
+            }
+          ]
+        },
+        "protected": false,
+        "verified": false,
+        "followers_count": 1014,
+        "friends_count": 495,
+        "listed_count": 704,
+        "favourites_count": 0,
+        "statuses_count": 895,
+        "created_at": "Tue May 19 02:03:29 +0000 2009",
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "253956",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/315452896/Twitter-BG_2_bg-image.jpg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/315452896/Twitter-BG_2_bg-image.jpg",
+        "profile_background_tile": false,
+        "profile_link_color": "4A913C",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "407DB0",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/667655069286854656/MXQQkpmF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/667655069286854656/MXQQkpmF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/41029688/1448016349",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "job",
+            "indices": [
+              34,
+              38
+            ]
+          },
+          {
+            "text": "Singapore",
+            "indices": [
+              42,
+              52
+            ]
+          },
+          {
+            "text": "SupplyChain",
+            "indices": [
+              78,
+              90
+            ]
+          },
+          {
+            "text": "Hiring",
+            "indices": [
+              91,
+              98
+            ]
+          },
+          {
+            "text": "CareerArc",
+            "indices": [
+              99,
+              109
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/N87qmHBOlh",
+            "expanded_url": "http://bit.ly/2o2Kq70",
+            "display_url": "bit.ly/2o2Kq70",
+            "unwound": {
+              "url": "http://www.careerarc.com/job-listing/ups-jobs-ups-apac-strategy-manager-for-inorganic-and-integration-22076490?campaign_id=6965&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC",
+              "status": 200,
+              "title": "UPS APAC Strategy Manager for Inorganic and Integration in Singapore",
+              "description": "Job Description UPS APAC Strategy Manager for Inorganic and Integration-037525 Job SummaryThis position will be a part of the Company's APAC Strategy Development team. The manager will work closely with the Company's senior management in developing and leading growth strategies, evaluation of opp..."
+            },
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en",
+      "matching_rules": [
+        {
+          "tag": null
+        }
+      ]
+    },
+    {
+      "created_at": "Wed Mar 22 01:10:50 +0000 2017",
+      "id": 844355658262634500,
+      "id_str": "844355658262634496",
+      "text": "RT @Jenna_Marbles: This is war. I'm hiring a boxing trainer. https://t.co/JC4RFFetIY",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 775566508910972900,
+        "id_str": "775566508910972928",
+        "name": "gayle 🌈",
+        "screen_name": "gayle_stor",
+        "location": "Washington, USA",
+        "url": null,
+        "description": "10/31/16 💞 I found you",
+        "translator_type": "none",
+        "derived": {
+          "locations": [
+            {
+              "country": "United States",
+              "country_code": "US",
+              "locality": "Washington, D. C.",
+              "region": "Washington, D.C.",
+              "full_name": "Washington, D. C., Washington, D.C., United States",
+              "geo": {
+                "coordinates": [
+                  -77.03637,
+                  38.89511
+                ],
+                "type": "point"
+              }
+            }
+          ]
+        },
+        "protected": false,
+        "verified": false,
+        "followers_count": 52,
+        "friends_count": 91,
+        "listed_count": 1,
+        "favourites_count": 2304,
+        "statuses_count": 643,
+        "created_at": "Tue Sep 13 05:27:19 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/839122465410330624/60nc5bM0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/839122465410330624/60nc5bM0_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/775566508910972928/1488897361",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Tue Mar 21 23:52:31 +0000 2017",
+        "id": 844335945323233300,
+        "id_str": "844335945323233280",
+        "text": "This is war. I'm hiring a boxing trainer. https://t.co/JC4RFFetIY",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 66699013,
+          "id_str": "66699013",
+          "name": "slondike is garbage",
+          "screen_name": "Jenna_Marbles",
+          "location": "Sirius B ⭐️",
+          "url": "http://www.youtube.com/jennamarbles",
+          "description": "2008 Hot. YouTube15 on SiriusXM Hits 1 http://www.jennamarblesblog.com | http://snapchat.com/add/JennaKermarbles",
+          "translator_type": "none",
+          "protected": false,
+          "verified": true,
+          "followers_count": 4198793,
+          "friends_count": 77663,
+          "listed_count": 8458,
+          "favourites_count": 21705,
+          "statuses_count": 12953,
+          "created_at": "Tue Aug 18 14:48:53 +0000 2009",
+          "utc_offset": -18000,
+          "time_zone": "Quito",
+          "geo_enabled": true,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/882748258/d0cbe3055837c009aea0c038062bf9d5.jpeg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/882748258/d0cbe3055837c009aea0c038062bf9d5.jpeg",
+          "profile_background_tile": false,
+          "profile_link_color": "FF0000",
+          "profile_sidebar_border_color": "FFFFFF",
+          "profile_sidebar_fill_color": "7AC3EE",
+          "profile_text_color": "3D1957",
+          "profile_use_background_image": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/815089506160234496/MkdsjaBX_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/815089506160234496/MkdsjaBX_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/66699013/1486795120",
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 844327655151288300,
+        "quoted_status_id_str": "844327655151288320",
+        "quoted_status": {
+          "created_at": "Tue Mar 21 23:19:34 +0000 2017",
+          "id": 844327655151288300,
+          "id_str": "844327655151288320",
+          "text": "New vid:\nFIXING JENNA MARBLES' GARBAGE DOGS\nhttps://t.co/Ml9DgrnsA7 https://t.co/UzM0MlZ2wd",
+          "display_text_range": [
+            0,
+            67
+          ],
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 9989862,
+            "id_str": "9989862",
+            "name": "jacksfilms",
+            "screen_name": "jacksfilms",
+            "location": "LA",
+            "url": "http://youtube.com/jacksfilms",
+            "description": "Cam girl.\nBusiness inquiries: jonb@fullscreen.com",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 757124,
+            "friends_count": 617,
+            "listed_count": 1219,
+            "favourites_count": 2993,
+            "statuses_count": 23133,
+            "created_at": "Tue Nov 06 06:40:23 +0000 2007",
+            "utc_offset": -25200,
+            "time_zone": "Pacific Time (US & Canada)",
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/211966171/twitter_jacksfilms_template2.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/211966171/twitter_jacksfilms_template2.jpg",
+            "profile_background_tile": false,
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/821791899350507520/5sd8iUIz_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/821791899350507520/5sd8iUIz_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/9989862/1393357723",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "quote_count": 0,
+          "reply_count": 75,
+          "retweet_count": 181,
+          "favorite_count": 1894,
+          "entities": {
+            "hashtags": [],
+            "urls": [
+              {
+                "url": "https://t.co/Ml9DgrnsA7",
+                "expanded_url": "https://youtu.be/nG7aPe8od3M",
+                "display_url": "youtu.be/nG7aPe8od3M",
+                "unwound": {
+                  "url": "https://www.youtube.com/watch?v=nG7aPe8od3M&feature=youtu.be",
+                  "status": 200,
+                  "title": "FIXING JENNA MARBLES' GARBAGE DOGS",
+                  "description": "Don't watch Jenna's garbage vid: https://www.youtube.com/watch?v=rRbHTeAcJLQ Fix your Pix #1 (#2 is still on the way!): https://www.youtube.com/watch?v=EP4cy..."
+                },
+                "indices": [
+                  44,
+                  67
+                ]
+              }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+              {
+                "id": 844322258008981500,
+                "id_str": "844322258008981504",
+                "indices": [
+                  68,
+                  91
+                ],
+                "media_url": "http://pbs.twimg.com/media/C7einsiUwAAmXIg.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C7einsiUwAAmXIg.jpg",
+                "url": "https://t.co/UzM0MlZ2wd",
+                "display_url": "pic.twitter.com/UzM0MlZ2wd",
+                "expanded_url": "https://twitter.com/jacksfilms/status/844327655151288320/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 1920,
+                    "h": 1080,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "id": 844322258008981500,
+                "id_str": "844322258008981504",
+                "indices": [
+                  68,
+                  91
+                ],
+                "media_url": "http://pbs.twimg.com/media/C7einsiUwAAmXIg.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C7einsiUwAAmXIg.jpg",
+                "url": "https://t.co/UzM0MlZ2wd",
+                "display_url": "pic.twitter.com/UzM0MlZ2wd",
+                "expanded_url": "https://twitter.com/jacksfilms/status/844327655151288320/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "medium": {
+                    "w": 1200,
+                    "h": 675,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 1920,
+                    "h": 1080,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 383,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "filter_level": "low",
+          "lang": "en"
+        },
+        "is_quote_status": true,
+        "quote_count": 0,
+        "reply_count": 167,
+        "retweet_count": 566,
+        "favorite_count": 5356,
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/JC4RFFetIY",
+              "expanded_url": "https://twitter.com/jacksfilms/status/844327655151288320",
+              "display_url": "twitter.com/jacksfilms/sta…",
+              "unwound": {
+                "url": "https://twitter.com/jacksfilms/status/844327655151288320",
+                "status": 200,
+                "title": "jacksfilms on Twitter",
+                "description": "“New vid: FIXING JENNA MARBLES' GARBAGE DOGS https://t.co/Ml9DgrnsA7”"
+              },
+              "indices": [
+                42,
+                65
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+      },
+      "quoted_status_id": 844327655151288300,
+      "quoted_status_id_str": "844327655151288320",
+      "quoted_status": {
+        "created_at": "Tue Mar 21 23:19:34 +0000 2017",
+        "id": 844327655151288300,
+        "id_str": "844327655151288320",
+        "text": "New vid:\nFIXING JENNA MARBLES' GARBAGE DOGS\nhttps://t.co/Ml9DgrnsA7 https://t.co/UzM0MlZ2wd",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 9989862,
+          "id_str": "9989862",
+          "name": "jacksfilms",
+          "screen_name": "jacksfilms",
+          "location": "LA",
+          "url": "http://youtube.com/jacksfilms",
+          "description": "Cam girl.\nBusiness inquiries: jonb@fullscreen.com",
+          "translator_type": "none",
+          "protected": false,
+          "verified": true,
+          "followers_count": 757124,
+          "friends_count": 617,
+          "listed_count": 1219,
+          "favourites_count": 2993,
+          "statuses_count": 23133,
+          "created_at": "Tue Nov 06 06:40:23 +0000 2007",
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": true,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/211966171/twitter_jacksfilms_template2.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/211966171/twitter_jacksfilms_template2.jpg",
+          "profile_background_tile": false,
+          "profile_link_color": "4A913C",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/821791899350507520/5sd8iUIz_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/821791899350507520/5sd8iUIz_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/9989862/1393357723",
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 75,
+        "retweet_count": 181,
+        "favorite_count": 1894,
+        "entities": {
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "https://t.co/Ml9DgrnsA7",
+              "expanded_url": "https://youtu.be/nG7aPe8od3M",
+              "display_url": "youtu.be/nG7aPe8od3M",
+              "unwound": {
+                "url": "https://www.youtube.com/watch?v=nG7aPe8od3M&feature=youtu.be",
+                "status": 200,
+                "title": "FIXING JENNA MARBLES' GARBAGE DOGS",
+                "description": "Don't watch Jenna's garbage vid: https://www.youtube.com/watch?v=rRbHTeAcJLQ Fix your Pix #1 (#2 is still on the way!): https://www.youtube.com/watch?v=EP4cy..."
+              },
+              "indices": [
+                44,
+                67
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": [],
+          "media": [
+            {
+              "id": 844322258008981500,
+              "id_str": "844322258008981504",
+              "indices": [
+                68,
+                91
+              ],
+              "media_url": "http://pbs.twimg.com/media/C7einsiUwAAmXIg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C7einsiUwAAmXIg.jpg",
+              "url": "https://t.co/UzM0MlZ2wd",
+              "display_url": "pic.twitter.com/UzM0MlZ2wd",
+              "expanded_url": "https://twitter.com/jacksfilms/status/844327655151288320/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 844322258008981500,
+              "id_str": "844322258008981504",
+              "indices": [
+                68,
+                91
+              ],
+              "media_url": "http://pbs.twimg.com/media/C7einsiUwAAmXIg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C7einsiUwAAmXIg.jpg",
+              "url": "https://t.co/UzM0MlZ2wd",
+              "display_url": "pic.twitter.com/UzM0MlZ2wd",
+              "expanded_url": "https://twitter.com/jacksfilms/status/844327655151288320/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1200,
+                  "h": 675,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1920,
+                  "h": 1080,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+      },
+      "is_quote_status": true,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "https://t.co/JC4RFFetIY",
+            "expanded_url": "https://twitter.com/jacksfilms/status/844327655151288320",
+            "display_url": "twitter.com/jacksfilms/sta…",
+            "unwound": {
+              "url": "https://twitter.com/jacksfilms/status/844327655151288320",
+              "status": 200,
+              "title": "jacksfilms on Twitter",
+              "description": "“New vid: FIXING JENNA MARBLES' GARBAGE DOGS https://t.co/Ml9DgrnsA7”"
+            },
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "Jenna_Marbles",
+            "name": "slondike is garbage",
+            "id": 66699013,
+            "id_str": "66699013",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en",
+      "matching_rules": [
+        {
+          "tag": null
+        }
+      ]
+    },
+    {
+      "created_at": "Wed Mar 22 01:10:45 +0000 2017",
+      "id": 844355637043589100,
+      "id_str": "844355637043589120",
+      "text": "We're #hiring! Click to apply: Starbucks Barista - https://t.co/2pwBAe8HaW #Hospitality #Seattle, WA #Job #Jobs #CareerArc",
+      "source": "<a href=\"http://www.tweetmyjobs.com\" rel=\"nofollow\">TweetMyJOBS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 117387498,
+        "id_str": "117387498",
+        "name": "Swedish Careers",
+        "screen_name": "SwedishCareers",
+        "location": "Seattle, Washington, USA",
+        "url": "http://Swedish.jobs",
+        "description": "Where you work matters. \r\nFor 100 years, employees at Swedish have provided the area's best and most comprehensive health care.",
+        "translator_type": "none",
+        "derived": {
+          "locations": [
+            {
+              "country": "United States",
+              "country_code": "US",
+              "region": "Washington",
+              "full_name": "Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -120.50147,
+                  47.50012
+                ],
+                "type": "point"
+              }
+            }
+          ]
+        },
+        "protected": false,
+        "verified": false,
+        "followers_count": 615,
+        "friends_count": 342,
+        "listed_count": 230,
+        "favourites_count": 111,
+        "statuses_count": 1216,
+        "created_at": "Thu Feb 25 12:01:08 +0000 2010",
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/78766471/swedish_02.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/78766471/swedish_02.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/789200739939737600/_c7WL3Mz_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/789200739939737600/_c7WL3Mz_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/117387498/1490127228",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          47.61,
+          -122.33
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -122.33,
+          47.61
+        ]
+      },
+      "place": {
+        "id": "300bcc6e23a88361",
+        "url": "https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json",
+        "place_type": "city",
+        "name": "Seattle",
+        "full_name": "Seattle, WA",
+        "country_code": "US",
+        "country": "United States",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.436232,
+                47.495315
+              ],
+              [
+                -122.436232,
+                47.734319
+              ],
+              [
+                -122.224973,
+                47.734319
+              ],
+              [
+                -122.224973,
+                47.495315
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "hiring",
+            "indices": [
+              6,
+              13
+            ]
+          },
+          {
+            "text": "Hospitality",
+            "indices": [
+              75,
+              87
+            ]
+          },
+          {
+            "text": "Seattle",
+            "indices": [
+              88,
+              96
+            ]
+          },
+          {
+            "text": "Job",
+            "indices": [
+              101,
+              105
+            ]
+          },
+          {
+            "text": "Jobs",
+            "indices": [
+              106,
+              111
+            ]
+          },
+          {
+            "text": "CareerArc",
+            "indices": [
+              112,
+              122
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2pwBAe8HaW",
+            "expanded_url": "http://bit.ly/2o2mHnx",
+            "display_url": "bit.ly/2o2mHnx",
+            "unwound": {
+              "url": "http://www.careerarc.com/job-listing/swedish-medical-center-jobs-starbucks-barista-22084805?campaign_id=16663&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC",
+              "status": 200,
+              "title": "Starbucks Barista in Seattle, WA",
+              "description": "Swedish Medical Center is looking for a Nutrition Services Barista \\(0\\.5 FTE, Evening Shift\\) to work in Starbucks at Swedish First Hill in Seattle, WA\\. The Nutrition Services Barista is responsi..."
+            },
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en",
+      "matching_rules": [
+        {
+          "tag": null
+        }
+      ]
+    },
+    {
+      "created_at": "Wed Mar 22 01:10:45 +0000 2017",
+      "id": 844355636829732900,
+      "id_str": "844355636829732864",
+      "text": "RT @VUMCcareers: If you're looking for work in #Nashville, TN, check out this #job: https://t.co/Q9TOEX4C4u #EpicEHR #EHR #IT… ",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 741448234627792900,
+        "id_str": "741448234627792896",
+        "name": "emswire",
+        "screen_name": "emswire",
+        "location": null,
+        "url": null,
+        "description": "EMS Wire - providing the latest news about the EMS industry. we seek to provide readers with thought provoking stories. @rubenkmajor",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 1446,
+        "friends_count": 1776,
+        "listed_count": 36,
+        "favourites_count": 67454,
+        "statuses_count": 1673,
+        "created_at": "Sat Jun 11 01:53:29 +0000 2016",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": "",
+        "profile_background_image_url_https": "",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/741723406580645889/Y4SzQyWn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/741723406580645889/Y4SzQyWn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/741448234627792896/1465675686",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Mar 22 01:10:16 +0000 2017",
+        "id": 844355513320009700,
+        "id_str": "844355513320009728",
+        "text": "If you're looking for work in #Nashville, TN, check out this #job: https://t.co/Q9TOEX4C4u #EpicEHR #EHR #IT… https://t.co/NlKmYpm4vL",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "source": "<a href=\"http://www.tweetmyjobs.com\" rel=\"nofollow\">TweetMyJOBS</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3515387903,
+          "id_str": "3515387903",
+          "name": "Careers at VUMC",
+          "screen_name": "VUMCcareers",
+          "location": "Nashville, TN",
+          "url": "http://vanderbilt.edu/work-at-vanderbilt/",
+          "description": "A place where diversity is sought and celebrated. We are Vanderbilt. Join Us.",
+          "translator_type": "none",
+          "protected": false,
+          "verified": false,
+          "followers_count": 352,
+          "friends_count": 239,
+          "listed_count": 282,
+          "favourites_count": 9,
+          "statuses_count": 570,
+          "created_at": "Tue Sep 01 19:01:17 +0000 2015",
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/638788873770954752/ssIw1-eb_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/638788873770954752/ssIw1-eb_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3515387903/1442340765",
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+          "full_text": "If you're looking for work in #Nashville, TN, check out this #job: https://t.co/Q9TOEX4C4u #EpicEHR #EHR #IT #Hiring #CareerArc https://t.co/nkMnp2uInr",
+          "display_text_range": [
+            0,
+            127
+          ],
+          "entities": {
+            "hashtags": [
+              {
+                "text": "Nashville",
+                "indices": [
+                  30,
+                  40
+                ]
+              },
+              {
+                "text": "job",
+                "indices": [
+                  61,
+                  65
+                ]
+              },
+              {
+                "text": "EpicEHR",
+                "indices": [
+                  91,
+                  99
+                ]
+              },
+              {
+                "text": "EHR",
+                "indices": [
+                  100,
+                  104
+                ]
+              },
+              {
+                "text": "IT",
+                "indices": [
+                  105,
+                  108
+                ]
+              },
+              {
+                "text": "Hiring",
+                "indices": [
+                  109,
+                  116
+                ]
+              },
+              {
+                "text": "CareerArc",
+                "indices": [
+                  117,
+                  127
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/Q9TOEX4C4u",
+                "expanded_url": "http://bit.ly/2iI6ndu",
+                "display_url": "bit.ly/2iI6ndu",
+                "unwound": {
+                  "url": "http://www.careerarc.com/job-listing/vanderbilt-university-medical-center-jobs-senior-domain-specialist-epic-inpatient-orders-analyst-21442587?campaign_id=21202&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC",
+                  "status": 200,
+                  "title": "Senior Domain Specialist - Epic Inpatient Orders Analyst in Nashville, TN",
+                  "description": "Senior Domain Specialist (Epic Inpatient Orders Analyst) Vanderbilt University Medical Center is seeking an analyst to work on the Epic Inpatient Orders team in a full time permanent position in Nashville, TN. The ideal candidate will have health information technology experience in inpatient phy..."
+                },
+                "indices": [
+                  67,
+                  90
+                ]
+              }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+              {
+                "id": 844355510992191500,
+                "id_str": "844355510992191488",
+                "indices": [
+                  128,
+                  151
+                ],
+                "media_url": "http://pbs.twimg.com/media/C7fA3RjVQAAPcvs.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C7fA3RjVQAAPcvs.jpg",
+                "url": "https://t.co/nkMnp2uInr",
+                "display_url": "pic.twitter.com/nkMnp2uInr",
+                "expanded_url": "https://twitter.com/VUMCcareers/status/844355513320009728/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "small": {
+                    "w": 680,
+                    "h": 355,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "medium": {
+                    "w": 921,
+                    "h": 481,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 921,
+                    "h": 481,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "id": 844355510992191500,
+                "id_str": "844355510992191488",
+                "indices": [
+                  128,
+                  151
+                ],
+                "media_url": "http://pbs.twimg.com/media/C7fA3RjVQAAPcvs.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/C7fA3RjVQAAPcvs.jpg",
+                "url": "https://t.co/nkMnp2uInr",
+                "display_url": "pic.twitter.com/nkMnp2uInr",
+                "expanded_url": "https://twitter.com/VUMCcareers/status/844355513320009728/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "small": {
+                    "w": 680,
+                    "h": 355,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "medium": {
+                    "w": 921,
+                    "h": 481,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 921,
+                    "h": 481,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Nashville",
+              "indices": [
+                30,
+                40
+              ]
+            },
+            {
+              "text": "job",
+              "indices": [
+                61,
+                65
+              ]
+            },
+            {
+              "text": "EpicEHR",
+              "indices": [
+                91,
+                99
+              ]
+            },
+            {
+              "text": "EHR",
+              "indices": [
+                100,
+                104
+              ]
+            },
+            {
+              "text": "IT",
+              "indices": [
+                105,
+                108
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/Q9TOEX4C4u",
+              "expanded_url": "http://bit.ly/2iI6ndu",
+              "display_url": "bit.ly/2iI6ndu",
+              "unwound": {
+                "url": "http://www.careerarc.com/job-listing/vanderbilt-university-medical-center-jobs-senior-domain-specialist-epic-inpatient-orders-analyst-21442587?campaign_id=21202&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC",
+                "status": 200,
+                "title": "Senior Domain Specialist - Epic Inpatient Orders Analyst in Nashville, TN",
+                "description": "Senior Domain Specialist (Epic Inpatient Orders Analyst) Vanderbilt University Medical Center is seeking an analyst to work on the Epic Inpatient Orders team in a full time permanent position in Nashville, TN. The ideal candidate will have health information technology experience in inpatient phy..."
+              },
+              "indices": [
+                67,
+                90
+              ]
+            },
+            {
+              "url": "https://t.co/NlKmYpm4vL",
+              "expanded_url": "https://twitter.com/i/web/status/844355513320009728",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices": [
+                110,
+                133
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Nashville",
+            "indices": [
+              47,
+              57
+            ]
+          },
+          {
+            "text": "job",
+            "indices": [
+              78,
+              82
+            ]
+          },
+          {
+            "text": "EpicEHR",
+            "indices": [
+              108,
+              116
+            ]
+          },
+          {
+            "text": "EHR",
+            "indices": [
+              117,
+              121
+            ]
+          },
+          {
+            "text": "IT",
+            "indices": [
+              122,
+              125
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Q9TOEX4C4u",
+            "expanded_url": "http://bit.ly/2iI6ndu",
+            "display_url": "bit.ly/2iI6ndu",
+            "unwound": {
+              "url": "http://www.careerarc.com/job-listing/vanderbilt-university-medical-center-jobs-senior-domain-specialist-epic-inpatient-orders-analyst-21442587?campaign_id=21202&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC",
+              "status": 200,
+              "title": "Senior Domain Specialist - Epic Inpatient Orders Analyst in Nashville, TN",
+              "description": "Senior Domain Specialist (Epic Inpatient Orders Analyst) Vanderbilt University Medical Center is seeking an analyst to work on the Epic Inpatient Orders team in a full time permanent position in Nashville, TN. The ideal candidate will have health information technology experience in inpatient phy..."
+            },
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "VUMCcareers",
+            "name": "Careers at VUMC",
+            "id": 3515387903,
+            "id_str": "3515387903",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en",
+      "matching_rules": [
+        {
+          "tag": null
+        }
+      ]
+    },
+    {
+      "created_at": "Wed Mar 22 01:10:45 +0000 2017",
+      "id": 844355636225814500,
+      "id_str": "844355636225814528",
+      "text": "RT @altNOAA: Trump is hiring!  But, these jobs are not for Americans.\nhttps://t.co/eBtx74VYbN\n#TrumpLies",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 822151062991831000,
+        "id_str": "822151062991831041",
+        "name": "Viktor DoKaren",
+        "screen_name": "Viktor_DoKaren",
+        "location": "Wisconsin, USA",
+        "url": null,
+        "description": "Right now, just someone who's trying to see what she can do.",
+        "translator_type": "regular",
+        "derived": {
+          "locations": [
+            {
+              "country": "United States",
+              "country_code": "US",
+              "region": "Wisconsin",
+              "full_name": "Wisconsin, United States",
+              "geo": {
+                "coordinates": [
+                  -90.00041,
+                  44.50024
+                ],
+                "type": "point"
+              }
+            }
+          ]
+        },
+        "protected": false,
+        "verified": false,
+        "followers_count": 27,
+        "friends_count": 134,
+        "listed_count": 0,
+        "favourites_count": 969,
+        "statuses_count": 1999,
+        "created_at": "Thu Jan 19 18:37:43 +0000 2017",
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "682860",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+        "default_profile": false,
+        "default_profile_image": true,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Mar 22 00:45:38 +0000 2017",
+        "id": 844349312922521600,
+        "id_str": "844349312922521600",
+        "text": "Trump is hiring!  But, these jobs are not for Americans.\nhttps://t.co/eBtx74VYbN\n#TrumpLies",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 824126001936474100,
+          "id_str": "824126001936474113",
+          "name": "Alternative NOAA",
+          "screen_name": "altNOAA",
+          "location": "Silver Spring, MD",
+          "url": "http://noaa.gov",
+          "description": "The Unofficial \"Resistance\" team of the NOAA. Account not tax payer subsidized. The NOAA studies the oceans, and the atmosphere to understand our planet. #MASA",
+          "translator_type": "none",
+          "protected": false,
+          "verified": false,
+          "followers_count": 145224,
+          "friends_count": 249,
+          "listed_count": 1745,
+          "favourites_count": 780,
+          "statuses_count": 2127,
+          "created_at": "Wed Jan 25 05:25:25 +0000 2017",
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": "",
+          "profile_background_image_url_https": "",
+          "profile_background_tile": false,
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/824692083180986368/ghs8RK-P_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/824692083180986368/ghs8RK-P_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/824126001936474113/1485456978",
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 94,
+        "favorite_count": 84,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "TrumpLies",
+              "indices": [
+                81,
+                91
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/eBtx74VYbN",
+              "expanded_url": "http://fortune.com/2017/03/21/trump-virginia-winery-foreign-workers/",
+              "display_url": "fortune.com/2017/03/21/tru…",
+              "unwound": {
+                "url": "http://fortune.com/2017/03/21/trump-virginia-winery-foreign-workers/",
+                "status": 200,
+                "title": "Trump’s Virginia Winery Is Hiring Foreign Workers Because Americans Aren’t Applying",
+                "description": "It wants to bring in 29 workers to pick grapes and cultivate vines."
+              },
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "TrumpLies",
+            "indices": [
+              94,
+              104
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eBtx74VYbN",
+            "expanded_url": "http://fortune.com/2017/03/21/trump-virginia-winery-foreign-workers/",
+            "display_url": "fortune.com/2017/03/21/tru…",
+            "unwound": {
+              "url": "http://fortune.com/2017/03/21/trump-virginia-winery-foreign-workers/",
+              "status": 200,
+              "title": "Trump’s Virginia Winery Is Hiring Foreign Workers Because Americans Aren’t Applying",
+              "description": "It wants to bring in 29 workers to pick grapes and cultivate vines."
+            },
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "altNOAA",
+            "name": "Alternative NOAA",
+            "id": 824126001936474100,
+            "id_str": "824126001936474113",
+            "indices": [
+              3,
+              11
+            ]
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en",
+      "matching_rules": [
+        {
+          "tag": null
+        }
+      ]
+    },
+    {
+      "created_at": "Wed Mar 22 01:10:45 +0000 2017",
+      "id": 844355636213284900,
+      "id_str": "844355636213284865",
+      "text": "RT @altNOAA: Trump is hiring!  But, these jobs are not for Americans.\nhttps://t.co/eBtx74VYbN\n#TrumpLies",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 17390555,
+        "id_str": "17390555",
+        "name": "Tami Carter-McNulty",
+        "screen_name": "tamicarter",
+        "location": "Washington, D.C.",
+        "url": "http://www.sodexousa.com",
+        "description": "Recruiter for careers in healthcare EVS for Sodexo. Avid follower of sports, food, travel & all things Pittsburgh. Tweets are my own. #HireVets #EndingHunger",
+        "translator_type": "none",
+        "derived": {
+          "locations": [
+            {
+              "country": "United States",
+              "country_code": "US",
+              "region": "Washington, D.C.",
+              "full_name": "Washington, D.C., United States",
+              "geo": {
+                "coordinates": [
+                  -77.00025,
+                  38.91706
+                ],
+                "type": "point"
+              }
+            }
+          ]
+        },
+        "protected": false,
+        "verified": false,
+        "followers_count": 1277,
+        "friends_count": 3208,
+        "listed_count": 86,
+        "favourites_count": 19189,
+        "statuses_count": 10146,
+        "created_at": "Fri Nov 14 16:39:04 +0000 2008",
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": true,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "99CC33",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/265330045/Twitterbg_2011.gif",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/265330045/Twitterbg_2011.gif",
+        "profile_background_tile": false,
+        "profile_link_color": "0437F1",
+        "profile_sidebar_border_color": "99CC33",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/717897319761461248/k-uYs382_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/717897319761461248/k-uYs382_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17390555/1490028909",
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Mar 22 00:45:38 +0000 2017",
+        "id": 844349312922521600,
+        "id_str": "844349312922521600",
+        "text": "Trump is hiring!  But, these jobs are not for Americans.\nhttps://t.co/eBtx74VYbN\n#TrumpLies",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 824126001936474100,
+          "id_str": "824126001936474113",
+          "name": "Alternative NOAA",
+          "screen_name": "altNOAA",
+          "location": "Silver Spring, MD",
+          "url": "http://noaa.gov",
+          "description": "The Unofficial \"Resistance\" team of the NOAA. Account not tax payer subsidized. The NOAA studies the oceans, and the atmosphere to understand our planet. #MASA",
+          "translator_type": "none",
+          "protected": false,
+          "verified": false,
+          "followers_count": 145224,
+          "friends_count": 249,
+          "listed_count": 1745,
+          "favourites_count": 780,
+          "statuses_count": 2127,
+          "created_at": "Wed Jan 25 05:25:25 +0000 2017",
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": "",
+          "profile_background_image_url_https": "",
+          "profile_background_tile": false,
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/824692083180986368/ghs8RK-P_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/824692083180986368/ghs8RK-P_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/824126001936474113/1485456978",
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 6,
+        "retweet_count": 94,
+        "favorite_count": 84,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "TrumpLies",
+              "indices": [
+                81,
+                91
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/eBtx74VYbN",
+              "expanded_url": "http://fortune.com/2017/03/21/trump-virginia-winery-foreign-workers/",
+              "display_url": "fortune.com/2017/03/21/tru…",
+              "unwound": {
+                "url": "http://fortune.com/2017/03/21/trump-virginia-winery-foreign-workers/",
+                "status": 200,
+                "title": "Trump’s Virginia Winery Is Hiring Foreign Workers Because Americans Aren’t Applying",
+                "description": "It wants to bring in 29 workers to pick grapes and cultivate vines."
+              },
+              "indices": [
+                57,
+                80
+              ]
+            }
+          ],
+          "user_mentions": [],
+          "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "TrumpLies",
+            "indices": [
+              94,
+              104
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eBtx74VYbN",
+            "expanded_url": "http://fortune.com/2017/03/21/trump-virginia-winery-foreign-workers/",
+            "display_url": "fortune.com/2017/03/21/tru…",
+            "unwound": {
+              "url": "http://fortune.com/2017/03/21/trump-virginia-winery-foreign-workers/",
+              "status": 200,
+              "title": "Trump’s Virginia Winery Is Hiring Foreign Workers Because Americans Aren’t Applying",
+              "description": "It wants to bring in 29 workers to pick grapes and cultivate vines."
+            },
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "altNOAA",
+            "name": "Alternative NOAA",
+            "id": 824126001936474100,
+            "id_str": "824126001936474113",
+            "indices": [
+              3,
+              11
+            ]
+          }
+        ],
+        "symbols": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "filter_level": "low",
+      "lang": "en",
+      "matching_rules": [
+        {
+          "tag": null
+        }
+      ]
+    }
+  ],
+  "next": "eyJhdXRoZW50aWNpdHkiOiIxNjU5YzRlYzAzMGE1MmU4NjE1YzkyMGFhMzc3M2U5NWMyZDEyOGUxMjA4ZmQyNjdlNGNkNjNjZjk2ZjBkNmUyIiwiZnJvbURhdGUiOiIyMDE3MDIyMDAwMDAiLCJ0b0RhdGUiOiIyMDE3MDMyMjAxMTAiLCJuZXh0IjoiMjAxNzAzMjIwMTEwNDUtODQ0MzU1NjM2MjEzMjg0ODY0LTAifQ==",
+  "requestParameters": {
+    "maxResults": 10,
+    "fromDate": "201702200000",
+    "toDate": "201703220110"
+  }
+}
