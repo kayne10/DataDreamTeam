@@ -110,5 +110,7 @@ class listener(StreamListener):
 auth = OAuthHandler(ckey, csecret)
 auth.set_access_token(atoken, asecret)
 
+keywords = ["hiring","visit"]
+
 twitterStream = Stream(auth, listener())
-twitterStream.filter(locations = UNITED_STATES+HAWAII+ALASKA) #filters within bound box of USA, including Hawaii and Alaska
+twitterStream.filter(track=keywords) #filters within bound box of USA, including Hawaii and Alaska
