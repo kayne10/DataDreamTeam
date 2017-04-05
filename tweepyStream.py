@@ -30,7 +30,7 @@ if not os.path.exists('Datasets'):
     os.makedirs('Datasets')
 
 
-class MyListener(StreamListener):
+class listener(StreamListener):
 
     def on_data(self, data):
         try:
@@ -47,7 +47,7 @@ class MyListener(StreamListener):
         return True
 
 # filter array for specific tweets
-keywords = ['hiring','hire','jobs']
+keywords = ['#hiring','#job','#career','#resume']
 
-twitter_stream = Stream(auth, MyListener())
+twitter_stream = Stream(auth, listener())
 twitter_stream.filter(track=keywords)
