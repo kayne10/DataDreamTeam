@@ -3,3 +3,6 @@
 ###################
 *.ini
 *~
+config/
+
+node_modules/
