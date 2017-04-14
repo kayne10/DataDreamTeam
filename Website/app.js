@@ -12,8 +12,8 @@ var users = require('./routes/users');
 var app = express();
 
 // Create Cassandra Connection
-const cassandra = require('cassandra-driver');
-const client = new cassandra.Client({ contactPoints: ['127.0.0.1:9042'] });
+var cassandra = require('cassandra-driver');
+var client = new cassandra.Client({ contactPoints: ['localhost'] });
 client.connect(function (err) {
   if (err) throw err;
 });

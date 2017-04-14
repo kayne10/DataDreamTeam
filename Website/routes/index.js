@@ -2,8 +2,8 @@ var express = require('express');
 var router = express.Router();
 
 // Create Cassandra Connection
-const cassandra = require('cassandra-driver');
-const client = new cassandra.Client({ contactPoints: ['127.0.0.1:9042'] });
+var cassandra = require('cassandra-driver');
+var client = new cassandra.Client({ contactPoints: ['localhost'] });
 client.connect(function (err) {
   if (err) throw err;
 });
@@ -11,14 +11,17 @@ client.connect(function (err) {
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  const query = "SELECT text, url, created_at FROM tweets";
+  const query = 'SELECT text, url, created_at FROM ddt.tweets';
   client.execute(query, function (err, result) {
-    var tweet = result;
-    console.log(tweet);
-    res.render('index', {
-      title: 'Express',
-      tweet: tweet
-     });
+    if (err) return next(err);
+    var tweets = result.rows;
+    res.json(tweets);
+    // console.log(tweets);
+    // var tweet = tweets.row;
+    // res.render('index', {
+    //   title: 'Express',
+    //   tweet: tweet
+    //  });
   });
 });
 
