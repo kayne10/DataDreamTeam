@@ -15,13 +15,12 @@ router.get('/', function(req, res, next) {
   client.execute(query, function (err, result) {
     if (err) return next(err);
     var tweets = result.rows;
-    res.json(tweets);
-    // console.log(tweets);
-    // var tweet = tweets.row;
-    // res.render('index', {
-    //   title: 'Express',
-    //   tweet: tweet
-    //  });
+    // res.json(tweets);
+    console.log(tweets);
+    res.render('index', {
+      title: 'Data Dream Team',
+      tweets: tweets
+     });
   });
 });
 
