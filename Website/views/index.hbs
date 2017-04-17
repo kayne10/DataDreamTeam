@@ -2,7 +2,7 @@
   <h1>{{title}}</h1>
   <p>Hello</p>
   <div class="tweets">
-    <table>
+    <table class="table">
       <thead>
         <th>Tweet</th>
         <th>Tweet URL</th>
@@ -12,7 +12,7 @@
         {{#each tweets}}
           <tr>
             <td>{{this.text}}</td>
-            <td><a href="{{this.url}}">{{this.url}}</a></td>
+            <td><a href="{{this.url}}">View Description here</a></td>
             <td>{{this.created_at}}</td>
           </tr>
         {{/each}}
