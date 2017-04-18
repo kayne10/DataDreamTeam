@@ -1,4 +1,22 @@
 <div class="content">
   <h1>{{title}}</h1>
   <p>Hello</p>
+  <div class="tweets">
+    <table class="table">
+      <thead>
+        <th>Tweet</th>
+        <th>Tweet URL</th>
+        <th>Date</th>
+      </thead>
+      <tbody>
+        {{#each tweets}}
+          <tr>
+            <td>{{this.text}}</td>
+            <td><a href="{{this.url}}">View Description here</a></td>
+            <td>{{this.created_at}}</td>
+          </tr>
+        {{/each}}
+      </tbody>
+    <table>
+  </div>
 </div>

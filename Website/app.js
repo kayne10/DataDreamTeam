@@ -5,20 +5,18 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var expressHbs = require('express-handlebars');
-var helenus = require('helenus')
 
 var routes = require('./routes/index');
 var users = require('./routes/users');
 
 var app = express();
 
-// Create Pool Connection for Cassandra
-// var pool = helenus.ConnectionPool({
-//     hosts: [],
-//     keyspace: 'DataDreamTeam',
-//     cqlVersion: '3.9.0',
-//     hostPoolSize: 3
-// });
+// Create Cassandra Connection
+var cassandra = require('cassandra-driver');
+var client = new cassandra.Client({ contactPoints: ['localhost'] });
+client.connect(function (err) {
+  if (err) throw err;
+});
 
 
 // view engine setup

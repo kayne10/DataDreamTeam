@@ -9,13 +9,18 @@
   $ brew install node
 
   Ubuntu:
-  $ sudo apt-get install nodejs
-  $ sudo apt-get install npm
+  $ sudo apt-get install nodejs /n
+  $ sudo apt-get install npm 
 </code>
 
-<p>Then, install all the dependencies for application before running.</p>
+<p>Then, install all the dependencies.</p>
 
 <code>
   $ npm install
+</code>
+
+<p>Once installed, run application on localhost:3000.</p>
+
+<code>
   $ npm start
 </code>
