@@ -14,10 +14,11 @@ It additionnally installs
 
 # Quick start-up guide
 
-Run container using [DockerHub image](https://hub.docker.com/r/yannael/kafka-sparkstreaming-cassandra)
+Run container after building it. run terminal in the ksc folder that has the dockerfile.
 
 ```
-docker run -p 4040:4040 -p 8888:8888 -p 23:22 -ti --privileged yannael/kafka-sparkstreaming-cassandra
+docker build -t ksc .
+docker run -p 4040:4040 -p 8888:8888 -p 23:22 -ti --privileged ksc
 ```
 
 See following video for usage demo.
