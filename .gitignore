@@ -8,3 +8,6 @@ config/
 node_modules/
 
 npm-debug.log
+
+.gnip
+.DS_Store
