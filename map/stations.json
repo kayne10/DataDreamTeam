@@ -1,0 +1,41 @@
+eqfeed_callback(
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4375,
+          44.213709909702054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27168273925781,
+          40.02156760530186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28332519531249,
+          37.86618078529668
+        ]
+      }
+    }
+  ]
+}
+
+)
