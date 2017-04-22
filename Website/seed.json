@@ -1,0 +1,5 @@
+{
+	"undefined": "localhost:27017/ddt",
+	"dev": "localhost:27017/ddt",
+	"prod": "localhost/PROD_DB_NAME"
+}
