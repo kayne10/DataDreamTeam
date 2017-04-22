@@ -5,18 +5,15 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var expressHbs = require('express-handlebars');
+var mongoose = require('mongoose');
 
 var routes = require('./routes/index');
 var users = require('./routes/users');
 
 var app = express();
 
-// Create Cassandra Connection
-var cassandra = require('cassandra-driver');
-var client = new cassandra.Client({ contactPoints: ['localhost'] });
-client.connect(function (err) {
-  if (err) throw err;
-});
+// Create Mongo Connection
+mongoose.connect('localhost:27017/ddt');
 
 
 // view engine setup

@@ -11,9 +11,9 @@
       <tbody>
         {{#each tweets}}
           <tr>
-            <td>{{this.text}}</td>
-            <td><a href="{{this.url}}">View Description here</a></td>
-            <td>{{this.created_at}}</td>
+            <td>{{this.body}}</td>
+            <td><a href="{{this.link}}">View Description here</a></td>
+            <td>{{this.postedTime}}</td>
           </tr>
         {{/each}}
       </tbody>
