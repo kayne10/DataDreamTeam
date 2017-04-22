@@ -1,0 +1,702 @@
+JAN 30TH, 6:51PM
+
+David
+This is the group. I think we should use this with Cassandra and the fire house, but what do I know http://lsa.colorado.edu
+LSA @ CU Boulder
+lsa.colorado.edu
+Gnip
+Plz
+
+David
+what do you mean
+/?
+Can we use gnip haha
+Very im8lar to firehose
+Similar
+
+David
+sure
+But much more dope b/c it gets 99% opposed to 2% twitter api
+Dope
+Of tweets
+Could run tensor flow or sklearn on it
+For machine learning
+
+David
+sounds awesome,but if we do simpler math like LSA we can populate cassandra in real time
+Hmmm i know very little about dbs
+Ill check it out
+
+David
+good, we shouldn't know shit about what were doing if its going to be fun
+Yes true
+FEB 1ST, 2:18PM
+
+Amir
+Hi gues would you like to have a quick meeting after class today?
+Sure
+FEB 1ST, 4:15PM
+
+David
+Matt if you want to use machine learning like tensorflow, we need a reason to train in with tweets. I have a couple ideas now for tensorflow applications and LSA applications, but ideas are more fun than important. Maybe profitable, probably not.
+that was bad wording
+we will talk after class
+Yea i gotchu
+Maybe emoji analysis lol
+Copy southpark
+
+David
+We could graph the way the online world feels per hour or minute
+or month
+With LSA we could find the most similar tweet to your own tweet
+FEB 1ST, 9:35PM
+
+David
+LSA has been used in tech as early as 2001, Pearson uses it in mastering astr/bio/physics
+it's at least well tested, and useful
+FEB 3RD, 3:11AM
+
+Troy
+Yo I realize I'm joining in on this late, I think we should use Cassandra db too it sounds like it has fast availability and large scalability
+I don't know anything about Lsa and tenserfow. They sound difficult but I also haven't researched them. However, I'm open to learn new fun software and for anything that's realistic to our experience
+FEB 3RD, 9:26PM
+
+David
+https://docs.google.com/a/colorado.edu/document/d/1LPEh8TdgGgPPCMss22-ljrYgGhzGgno75j32tCy9b8M/edit?usp=sharing
+Sign in - Google Accounts
+google.com
+only cu accounts can view but that's my idea, I believe its within our scope
+FEB 6TH, 12:07PM
+
+David
+What do you all think of my idea
+Wanna implement it?
+
+Amir
+Hi do you mean using LSA?
+if yes it interesting idea, I did some research about it . it is not too hard to implement it with python
+
+David
+Did you read the google doc?
+
+Amir
+no
+reading now
+yes it is intersting for me ,
+
+David
+we can show greg the idea today if you guys all approve
+
+Amir
+sure good idea
+I can setup the github and add in a sample twitter parser
+unless you already did david, can I get your guys user info
+
+David
+dape5519 i did no github
+cool ill set it up
+
+Amir
+mine is:
+amirkashi
+
+Troy
+kayne10
+i'm gonna make the repo private for now so that we can add keys
+
+David
+Sounds gucci
+did you guys see the stuff I just added to doc
+although I'm def getting ahead of myself
+
+David
+but you guys think we should show greg
+Yea more like ask if he thinks its feasible
+
+David
+I emailed it to him
+new repo, i fucked up the first one
+FEB 6TH, 3:23PM
+
+David
+Greg said think it is feasible, but don't underestimate how difficult it is to detect emotion/sentiment from small pieces of text.
+
+in my experience, even the best algorithms only get sentiment correct for about 60% of tweets.
+
+it can get more accurate with specific domains. sarcasm is one of the problems you'll encounter....
+
+David
+Makes sense.
+
+Amir
+cool thanks
+
+David
+We can still do that or something similar, but my plan wasn't on the money
+Def something similar
+FEB 6TH, 5:15PM
+
+David
+I talked with him and he thinks it's a good project and he almost wanted us to run it the sentiment problem ourselves. But after learning that we could use the twitter api to pull data all the way back to 2006. I think my idea is still good. Instead of using emotion strings for lsa we should use strings related to specific past events and grab tweets from that time period to test and refine our algorithms
+Never done streaming of specific dates did you check out how to implement it tho?
+FEB 6TH, 7:48PM
+what email are you using for greg
+his gmail or cu email
+
+Amir
+I used his cu , I think you can find it on lecture 1 slides
+FEB 9TH, 1:43PM
+
+David
+I just talked with someone who took this class and accidentally uploaded the keys to AWS
+we aren't going to do that
+Haahha
+Yea
+Hell no
+
+David
+they stole 7500$ of services from the team and Amazon refunded it because Greg is total boss
+Hahahah
+Yeaaa thats why our repo is private haha
+/in Greg's files
+MAR 7TH, 12:09PM
+yo added you all to pivitol
+and have psswords for other stuff should we make a doc for it or more config files
+
+David
+Sounds great
+MAR 13TH, 10:49AM
+
+Amir
+hi do we need to make and slide today ?
+MAR 13TH, 12:22PM
+
+David
+I think we mainly have to present our ideas
+MAR 13TH, 3:34PM
+
+David
+And pivotal
+I'm sick today. I've been in bed all day. Don't know if I should go to class
+All good i can talk
+But add somestuff to pivotal
+And imma try to make a lil jupyter notebook to present
+Rn
+
+David
+go for it
+
+David
+i added 4 things to pivotal
+
+David
+omg the project though, really tough
+The data is still so unorganized but i can talk about that
+
+Troy
+So are we presenting what we have done?
+
+David
+yes but through pivitol
+I think we are in class today
+Also
+And i can talk about the data theory or someshit, just pushed the notebook to github
+MAR 20TH, 1:43PM
+got gniip working with a curl command, we should maybe meet up for a minute after class today or wednesday so we each know what to do over break
+unless you're going to a tropical beach somewhere lol
+
+David
+I'm down to work over break, I haven't done enough yet.
+Give me work to do. After class. I have a meeting at 7.
+Its all good, we just need to all be in the same page before leavin for break
+
+Amir
+Hi I found how to run Cassandra in multiple nodes
+I want to switch to learn storm in case we need it
+Thats great if it wouldnt take too long getting it on maybe we should all get it running
+Storm is almost definitely necessary
+
+Amir
+Good I will start learning it do
+Do you want we have a quick meeting tonight after class?
+
+David
+Do we need to make the gnip api a producer in kafka?
+
+Amir
+I am not sure, about it
+I am also not sure if we need to save all twits in data base or the twits we are interested to work on it
+Only the ones we need
+Kafka would take in the tweets filter some pass the reordered result to the next part of the architecture
+I think it would be the producer for kafkas broker though
+MAR 21ST, 5:47PM
+
+Amir
+Hi I am uploading one node to our shared project folder
+it is 2gb , I think it should be there in 1 hour as google tell me
+i wrote a short instruction how to use it , please let me know if you have any question.
+I can give you copy of all nodes if you want tomorrow using a flash drive . one none is good for testing
+I running it on 3 nodes now
+Thanks ill try it out tomorrow and let you know what happens
+
+Amir
+cool thanks
+Thats nice though
+
+David
+Awesome!
+MAR 24TH, 4:21PM
+
+Amir
+hi , I am uploading the test server to the project drive now , you can get it sometime today it think it take about 2 hours
+it is the same as others but has qui which make it easier to work , and it works on a single node. we can run our test in this server
+its name is xubuntu_01_base_cassandra_test.ova
+let me know if you have question
+let me know if you have any question about it
+have good break
+Thanks ill check it out
+MAR 28TH, 4:32PM
+
+David
+kafka is spun up on a single node
+https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04
+How To Install Apache Kafka on Ubuntu 14.04 | DigitalOcean
+Apache Kafka is a popular distributed message broker designed to handle large volumes of real-time data efficiently. A Kafka cluster is not only highly scalable and fault-tolerant, but it also has a much higher throughput compared to other message bro
+digitalocean.com
+
+David
+that's the tutorial I used
+steps 6 & 7 are useful knowlegde for testing im going to try and install a kafka measuring tool too
+I'm about the go slackline with a google employee and netflix employee, both know about the tools we are using. Last time I talked with him he said that storm is being replaced with spark in the industry.
+
+David
+I'll upload the VM sometime soon
+
+Amir
+Cool thanks
+MAR 29TH, 10:53AM
+Yea sounds good and have fun david
+APR 4TH, 7:04PM
+
+Amir
+hi do you know what we should read for tomorrow quize?
+APR 5TH, 12:44PM
+13-
+13 is the first one itll cover up to now
+
+Troy
+I feel like it will cover mostly elastic search stuff
+i missed that day fuck
+
+Troy
+Lecture 14 and 15 cover it. Still very dense slides tho
+word
+APR 7TH, 1:11PM
+
+David
+https://hub.docker.com/r/yannael/kafka-sparkstreaming-cassandra/
+Checking out docker this seems the most promising
+hub.docker.com
+This Dockerfile sets up a complete streaming environment for experimenting with Kafka, Spark streaming (PySpark), and Cassandra. It installs
+hub.docker.com
+The versions are a tiny bit out of date. like June 2016
+https://hub.docker.com/r/yannael/kafka-sparkstreaming-cassandra/
+hub.docker.com
+This Dockerfile sets up a complete streaming environment for experimenting with Kafka, Spark streaming (PySpark), and Cassandra. It installs
+hub.docker.com
+watch the video, this makes things too east
+APR 9TH, 9:58AM
+Still tryin to meet at 11?
+
+Amir
+Yes works for me, let know if you can't
+Just wanted to make sure everone was still down before goin over there
+
+David
+Yeah
+Hm ill call troy in a minute
+
+David
+I may be 5 or 10 late. I'm eating breakfast now
+Im about to skate over, will also be 5 mins late
+
+Amir
+I will stop at math library to see if there is a free study room
+Good call let us know
+
+David
+I'm here and it's empty
+We should work here
+The conference room is empty
+
+Amir
+Good
+I will be there in a min
+Which one
+Gemmell or csel
+
+David
+Csel
+
+Amir
+Csell, I can go gemmel to see if they have room if you want
+Cool
+1min
+Out
+
+David
+https://docs.docker.com/engine/installation/linux/ubuntu/
+https://us-east-1.signin.aws.amazon.com/oauth?SignatureVersion=4&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMOATPLHVSJ563XQ&X-Amz-Date=2017-04-09T18%3A35%3A07.097Z&X-Amz-Signature=a878497a23f3dbc946227d5c40a8aac4ba748f5c07027fca873d8705ad94c476&X-Amz-SignedHeaders=host&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fhomepage&redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3Fstate%3DhashArgs%2523%26isauthcode%3Dtrue&response_type=code&state=hashArgs%23
+APR 9TH, 2:31PM
+
+David
+im heading out
+APR 9TH, 4:03PM
+
+David
+matt can u send me the emal DDTgreg123 didn't work
+Yea one sec
+whats your email again?
+Your login link is: https://cubigdata.signin.aws.amazon.com/console
+cubigdata.signin.aws.amazon.com
+console.aws.amazon.com
+try that
+APR 10TH, 9:48AM
+
+David
+It worked, I push a composed cluster to git hub but I think it's not the most useful, I'm going to try docker swarm today.
+Noice ill check it out
+
+David
+https://github.com/Yannael/kafka-sparkstreaming-cassandra-swarm
+This is the move
+Yannael/kafka-sparkstreaming-cassandra-swarm
+Contribute to kafka-sparkstreaming-cassandra-swarm development by creating an account on GitHub.
+github.com
+APR 11TH, 4:18PM
+
+David
+So yesterday, I found out that this is a ridiculously hard to understand without a lot of experience. Now I can either do cassandra kafka spark on a single node or we can do what matt suggested and make a front end
+gnip search
+but we are running out of time.
+I was also recomened to try ansible
+i think cassandra spark kafka would be dope
+if its doable
+
+Troy
+I agree
+
+David
+I believe that single node is doable
+cluster is not
+at this point.
+but, on a single node I should be able to do everything and host it on aws
+
+Troy
+That's fine we just started learning about these technologies so as long as we pursue a realistic final product, we have something dope to brag about on our githubs
+im with troy
+it doesnt matter if we lose like 1% of info scraped
+or even 2 or 3 !
+single node is chillen
+APR 11TH, 7:09PM
+
+David
+Assuming we are doing everything on a single node.. what does that node need to have installed
+currently we got java openjdk,kafka +a kafka-python module,plus cassandra, we are installing through yum so if know a piece of software you want to be on there for search or hosting certain file types I need the YUM install for centos 6
+
+Troy
+Which software is responsible for feeding datasets to Cassandra
+
+David
+we have that
+
+Troy
+Cool
+And I bet it's still possible to connect to Cassandra on a node app even tho Cassandra is in docker container
+
+David
+I'm not sure how that works, I'd check for infrastructure
+APR 12TH, 11:11AM
+
+David
+I also need to know how we are storing the data in cassandra
+
+David
+That would be up to Troy since he is designing the website. The data tables in cassandra should be formated with the website interface in mind. All I need from that is cassandra cql commands to automatically initialize the table. Here is an example
+CREATE KEYSPACE test_time WITH replication = {'class': 'SimpleStrategy', 'replication_factor' : 1};
+
+CREATE TABLE test_time.sent_received(
+ time_sent TEXT,
+ time_received TEXT,
+PRIMARY KEY (time_sent)
+);
+
+Troy
+Key spaces are a collection of tables right?
+Also I can work on a data model for Cassandra in my next class
+
+David
+CQL treats the database (Keyspace) as a container of tables.
+Programmers use cqlsh: a prompt to work with CQL or separate application
+language drivers.
+
+David
+For everyone, the most important thing to understand about docker containers is you build them automatically and they start working automatically as well. SO we have to have thing working correctly on boot. If there is a problem it will be evident but the only way to fix it would be rebuilding with a new approach, Rebuilding takes roughly 30 minutes so PLEASE iron everything out to be perfect and understand what your working on. If we run into unforseen errors and can't fix them right away we could be screwed.
+
+David
+I can explain more in class today.
+Are we still using kafka
+Or straight to spark,  cause we don't care about 100% retained
+
+David
+At this point, going to straight to spark may be more difficult. Since I already have them interfacing.
+Alright maybe not sure
+APR 12TH, 1:32PM
+anyone know how to make a kafka topic and david does your stuff include a consumer
+im not sure if kafkas gonna work, reading some documentation, hella confused
+eh might be wrong
+eh fuck kafka imma look into sending straight to spark
+i think spark is very doable maybe dockerize cassandra instances?... we can talk in class tho
+wrote a shell script to run the search for links on #jobs tweets to a json
+might format it a lil
+more
+
+Troy
+https://docs.datastax.com/en/latest-dse/datastax_enterprise/spark/sparkJavaApi.html
+Getting started with the Spark Cassandra Connector Java API
+The Spark Cassandra Connector Java API allows you to create Java applications that use Spark to analyze Cassandra data.
+docs.datastax.com
+
+David
+Troy, that's about taking data from spark and putting it into Cassandra. We got that infrastructure installed. What I asked for was the data storage format in cql. As in how things are inside of Cassandra.
+When you use Cassandra you need to create a table with cql before you fill it. I'm asking you to create a table that will interface with your website.
+I've got spark to Cassandra in python. But we can pull from Cassandra without python if need be.
+
+Troy
+I have a couple schemas written down. Since we are using a cluster I am a confused on the replication factor
+I can show u in class
+
+Amir
+Replication factor is 3
+
+Troy
+Cool
+
+Amir
+Depends on cluster number, we have 3 server
+
+Troy
+SimpleStrategy or NetworkTopogrqphyStrargy
+?
+
+Amir
+If we have more it is recommended to have at least 3
+Yes
+First one , I am not sure about second
+
+Troy
+Me too
+
+David
+Before we had a single node as the plan
+Why are we saying cluster again? Earlier I said I that getting the cluster to run on AWS is too hard for me to do in a week
+
+Troy
+I was unclear you were referring to Cassandra
+Not a problem working with a single node
+
+Amir
+Oh replication factor should be 1 for single nod ,
+
+Troy
+Gotcha thanks
+
+Amir
+Professor said he don't care if we have a single nod, architectures is what he care
+Thanks all for hard work, see you at class
+
+David
+Okay, the example I posted above in cql is a table on a single node.
+That's the move
+Doable
+
+David
+MON 11:55AM
+want to meet in a hour or two
+class is cancelled
+
+David
+I can't do an hour or two. But I can do 3
+norlin ?
+im good with that
+
+Troy
+I'm good with that too
+
+Amir
+I have calass from 4-5:15
+
+David
+sure
+alright ill be up there at like 230 til like 4 then i guess
+
+David
+I'm not totally sure I can make 3
+i feel we can always just message and work alone doesn't really matter
+just due really fuckin soon
+
+Amir
+That time works for me
+
+David
+agreed
+david does your docker container for spark know how to take in tweets?
+or should i try to write something for that?
+
+David
+If you give me the api py files today. I can deal with that.
+I have no idea what the format is from the file. But it's set up to take anything in. We just have to make sure it does it correctly
+MON 1:50PM
+
+Amir
+hi I am at norlit now and will leave here 3:40
+Sounds good
+Ill be there soon
+Where? Science stacks?
+Im here also
+
+Amir
+where are you? the table I have is under air conditoner , I am freezing now
+https://cubigdata.signin.aws.amazon.com/console
+cubigdata.signin.aws.amazon.com
+console.aws.amazon.com
+Come when you guys can
+Gotta make some changes
+Gnip crashes too much goin to tweepy
+
+Troy
+On my way now
+
+David
+On my way too
+Word were in the middle of the science stacks
+TUE 10:31AM
+
+David
+Hey I just realized I have a midterm Thursday. I can still meet today with amir and tomorrow with everyone
+TUE 1:58PM
+
+David
+Greg asked what error we got?
+I'm trying to run the gnip api with a configuration file. What should the type of the file be
+.gnip
+Name it that
+The other file requires that
+
+David
+is this the error
+Yea tried running python 1 2 and 3
+And my friend has also been getting the error
+
+David
+that error
+and it used to work?
+Yes
+Idk his error but neither of ours work anymore
+And we modified nothing
+
+David
+https://github.com/DrSkippy
+which one of his
+I think full search
+It should be the same name as on the matt branch of github
+TUE 4:48PM
+
+David
+Docker file and other usable things under ksc in master
+TUE 8:31PM
+
+David
+okay, we are using gnip
+matt
+there is no issue with gnip, what happened is we have a data type switch.
+
+Troy
+Is it back on?
+
+David
+It was never off
+we all share settings
+some groups changed the data format.
+Matt
+
+Troy
+Ok well we are still running low on time and we still need to fill our database so I don't mind using gnip or tweepy as long as we can gather datasets
+
+David
+Chiraq said he had the same issue and I just emailed him with the image asking for the help he offered to give.
+
+David
+eh, he sent an email back saying we have a slightly different error. his involved the word key, I CC'd you. BUT GNIP DOES WORK
+According to chiraq its been working
+WED 1:57PM
+
+Troy
+http://spark.apache.org/docs/latest/sql-programming-guide.html#json-datasets
+JSON Datasets - Spark SQL and DataFrames - Spark 2.1.0 Documentation
+Spark SQL can automatically infer the schema of a JSON dataset and load it as a Dataset[Row]. This conversion can be done using SparkSession.read.json() on either an RDD of String, or a JSON file.
+spark.apache.org
+10:12AM
+anyone want to work a bit at 12
+i could maybe help you with the db troy
+
+Troy
+I cant at 12, but i can at anytime but 12
+
+David
+I'll work at 12! Matt bring a fucking charger
+I'll work all day with yall
+
+Troy
+coool
+nah
+i didnt
+haha
+
+David
+Go get a fucking charger
+i have 4 hours of power
+where at, Norlin science stacks?
+Doesn't really matter tho, can't get much done without populated db
+
+Amir
+Hi were do you want to work?
+I learned how to make point map with geo json , it is pretty easy , I pushed  one sample to the git hub
+check map_04_json.html
+Nice I don't think our database has anything in it though, maybe test with a file
+What kind of format does it want the Geo coords
+Where we worked in norlin last time in the back?
+Science stacks? I'd go at 12
+
+Amir
+Yes norlin works
+I tested with a some location , I am using my API key , not sure how many calls we can have .
+true that
+down to work on that at norlin at 12 til my comp dies
+
+David
+Here
+im about to go after my class im in
+be there soon
+
+Troy
+I'll see you guys there after my class
+sounds good going to rece for os?
+
+Troy
+It's cancelled
+oh word see ya at 1 then
+troy when are you done
+
+Troy
+I'm out in 5
