@@ -1,7 +1,15 @@
-<div class="content">
+<style>
+    .mapboxgl-popup {
+        max-width: 400px;
+        font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    }
+</style>
+<div class="header">
   <h1>{{title}}</h1>
   <p>Hello</p>
-  <iframe src="https://api.mapbox.com/styles/v1/tkayne10/cj1tzvn3s001p2soc1pq5qh8u.html?title=true&access_token=pk.eyJ1IjoidGtheW5lMTAiLCJhIjoiY2lwOTVobWx3MDFnNHRjbHl0am95YmhvMSJ9.RSsOrxJBCf89fcrlDJfejg#3.2/35.938249/-447.823369/0" width="1000" height="600"></iframe>
+</div>
+<div id="map"></div>
+  <!-- <iframe src="https://api.mapbox.com/styles/v1/tkayne10/cj1tzvn3s001p2soc1pq5qh8u.html?title=true&access_token=pk.eyJ1IjoidGtheW5lMTAiLCJhIjoiY2lwOTVobWx3MDFnNHRjbHl0am95YmhvMSJ9.RSsOrxJBCf89fcrlDJfejg#3.2/35.938249/-447.823369/0" width="1000" height="600"></iframe> -->
     <table class="table">
       <thead>
         <th>Tweet</th>
@@ -18,14 +26,31 @@
         {{/each}}
       </tbody>
     <table>
-</div>
-<script>
-  // When a click event occurs on a feature in the places layer, open a popup at the
-  // location of the feature, with description HTML from its properties.
-  map.on('click', 'tweet-jobs', function (e) {
-      new mapboxgl.Popup()
-          .setLngLat(e.features[0].geometry.coordinates)
-          .setHTML(e.features[0].properties.description)
-          .addTo(map);
+<script type="text/javascript">
+  mapboxgl.accessToken = 'pk.eyJ1IjoidGtheW5lMTAiLCJhIjoiY2lwOTVobWx3MDFnNHRjbHl0am95YmhvMSJ9.RSsOrxJBCf89fcrlDJfejg';
+  var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/tkayne10/cj1tzvn3s001p2soc1pq5qh8u',
+    center: [-94.298, 40.920],
+    zoom: 3.3
+  });
+  map.on('load', function () {
+    // When a click event occurs on a feature in the places layer, open a popup at the
+    // location of the feature, with description HTML from its properties.
+    map.on('click', 'tweet-jobs', function (e) {
+        new mapboxgl.Popup()
+            .setLngLat(e.features[0].geometry.coordinates)
+            .setHTML(e.features[0].properties.body)
+            .addTo(map);
+    });
+    // Change the cursor to a pointer when the mouse is over the places layer.
+    map.on('mouseenter', 'places', function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+
+    // Change it back to a pointer when it leaves.
+    map.on('mouseleave', 'places', function () {
+        map.getCanvas().style.cursor = '';
+    });
   });
 </script>
