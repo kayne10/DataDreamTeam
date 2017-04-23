@@ -11,3 +11,5 @@ npm-debug.log
 
 .gnip
 .DS_Store
+
+*.pyc

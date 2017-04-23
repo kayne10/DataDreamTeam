@@ -1,7 +1,7 @@
 <div class="content">
   <h1>{{title}}</h1>
   <p>Hello</p>
-  <div class="tweets">
+  <iframe src="https://api.mapbox.com/styles/v1/tkayne10/cj1tzvn3s001p2soc1pq5qh8u.html?title=true&access_token=pk.eyJ1IjoidGtheW5lMTAiLCJhIjoiY2lwOTVobWx3MDFnNHRjbHl0am95YmhvMSJ9.RSsOrxJBCf89fcrlDJfejg#3.2/35.938249/-447.823369/0" width="1000" height="600"></iframe>
     <table class="table">
       <thead>
         <th>Tweet</th>
@@ -18,5 +18,14 @@
         {{/each}}
       </tbody>
     <table>
-  </div>
 </div>
+<script>
+  // When a click event occurs on a feature in the places layer, open a popup at the
+  // location of the feature, with description HTML from its properties.
+  map.on('click', 'tweet-jobs', function (e) {
+      new mapboxgl.Popup()
+          .setLngLat(e.features[0].geometry.coordinates)
+          .setHTML(e.features[0].properties.description)
+          .addTo(map);
+  });
+</script>
