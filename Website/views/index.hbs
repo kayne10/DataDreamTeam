@@ -44,12 +44,29 @@
             .addTo(map);
     });
     // Change the cursor to a pointer when the mouse is over the places layer.
-    map.on('mouseenter', 'places', function () {
+    map.on('mouseenter', 'tweet-jobs', function () {
         map.getCanvas().style.cursor = 'pointer';
     });
-
     // Change it back to a pointer when it leaves.
-    map.on('mouseleave', 'places', function () {
+    map.on('mouseleave', 'tweet-jobs', function () {
+        map.getCanvas().style.cursor = '';
+    });
+    map.on('mouseenter', 'tweet-jobs2', function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', 'tweet-jobs2', function () {
+        map.getCanvas().style.cursor = '';
+    });
+    map.on('mouseenter', 'tweet-jobs3', function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', 'tweet-jobs3', function () {
+        map.getCanvas().style.cursor = '';
+    });
+    map.on('mouseenter', 'tweet-jobs4', function () {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on('mouseleave', 'tweet-jobs4', function () {
         map.getCanvas().style.cursor = '';
     });
   });

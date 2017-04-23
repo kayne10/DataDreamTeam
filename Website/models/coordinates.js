@@ -11,6 +11,7 @@
 //
 // module.exports = mongoose.model('Coordinates', coordinateSchema);
 
+// tried importing geojson npm library
 var GeoJSON = require('mongoose-geojson-schema');
 var mongoose = require('mongoose');
 

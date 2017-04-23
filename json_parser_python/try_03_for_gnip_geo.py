@@ -1,9 +1,9 @@
 import json
 import unicodedata
 
-
+# lets try to loop all gnip json files
 json_data = open('file_01.json').readlines()
-json_format = open('sample.json', 'w')
+json_format = open('../Website/seeds/map.json', 'w')
 json_geo_format_google_map = open('google_map.json', 'w')
 
 json_out ={}
@@ -15,12 +15,12 @@ json_out.update(Type)
 
 for lines in json_data:
 	data = json.loads(lines)
-	marker = {} # all feature of a marker saves here 
+	marker = {} # all feature of a marker saves here
 	tp ={}
 	tp["type"] = "Feature"
 	marker.update(tp)
 	# -----------------------------------------------
-	# property dictionary 
+	# property dictionary
 	prop = {}
 	name = {}
 	name["Name"] = data['actor']['preferredUsername'].encode('utf8')
@@ -33,7 +33,7 @@ for lines in json_data:
 	prop["properties"].update(body)
 	marker.update(prop)
 	#------------------------------------------------
-	# geometry dictionary 
+	# geometry dictionary
 	geo = {}
 	tp2 = {}
 	tp2["type"] = "Point"
@@ -49,16 +49,16 @@ for lines in json_data:
 				lng = float( items['geo']['coordinates'][1])
 				lat = float (items['geo']['coordinates'][0])
 		long_lat.append(lng)
-		long_lat.append(lat)	
+		long_lat.append(lat)
 	else:
 		long_lat.append(0)
 		long_lat.append(0)
-	
+
 	coord["coordinates"]= long_lat
 	geo["geometry"] = tp2
 	geo["geometry"].update(coord)
-	
-	
+
+
 	#marker.update(prop)
 	marker.update(geo)
 	if long_lat[0] != 0:
@@ -73,4 +73,4 @@ print >> json_geo_format_google_map, js
 print >> json_geo_format_google_map, ")"
 json_format.close()
 json_geo_format_google_map.close()
-#print json_out 
+#print json_out

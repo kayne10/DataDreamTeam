@@ -5,7 +5,7 @@ var Tweets = require('../models/tweets');
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  Tweets.find({}, function(err, result){
+  Tweets.findOne({}, function(err, result){
     res.render('index', {
       title: 'Data Dream Team',
       tweets: result
