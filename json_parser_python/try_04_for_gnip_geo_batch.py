@@ -74,7 +74,7 @@ def main():
 			read_file = open(path_read+'/'+filename, 'r').readlines()
 			write_file = open(path_write+'/'+filename,'w')
 			geo_json = json_output(read_file)
-			
+			geo_json_dump = json.dumps(geo_json, indent=4)
 			print >> write_file, geo_json
 			#read_file.close()
 			write_file.close()
