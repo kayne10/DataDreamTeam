@@ -14,7 +14,7 @@ var users = require('./routes/users');
 var app = express();
 
 // Create local Mongo Connection
-//mongoose.connect('localhost:27017/ddt');
+// mongoose.connect('localhost:27017/ddt');
 mongoose.connect('ec2-34-209-198-144.us-west-2.compute.amazonaws.com:27018/ddt');
 
 // Create AWS Mongo Connection

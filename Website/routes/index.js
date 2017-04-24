@@ -29,7 +29,7 @@ router.get('/', function(req, res, next){
           tweets: result
         });
       }
-    });
+    }).limit(300);
   } else {
     // only query a specific amount. DB is too big so use $max
     Tweets.find({}, function(err, result){
@@ -41,7 +41,7 @@ router.get('/', function(req, res, next){
           tweets: result
         });
       }
-    });
+    }).limit(300);
   }
 });
 
