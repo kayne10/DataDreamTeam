@@ -79,9 +79,9 @@ def main():
 			#os.remove(path_read+'/'+filename)
 	json_out["features"] = features
 	geo_json_dump = json.dumps(json_out, indent=4)
-	print >> one_json, "eqfeed_callback("
+	#print >> one_json, "eqfeed_callback("
 	print >> one_json, geo_json_dump
-	print >> one_json, ")"
+	#print >> one_json, ")"
 	one_json.close()
 	
 main()
