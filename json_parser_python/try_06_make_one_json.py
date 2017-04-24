@@ -73,11 +73,14 @@ def main():
 	one_json = open('one_json.json', 'w')
 	for filename in os.listdir(path_read):
 		print filename
-		if filename.endswith('.json'): 
-			read_file = open(path_read+'/'+filename, 'r').readlines()
-			twit_list = json_output(read_file) # return a list 
-			features = features + twit_list
-			#	os.remove(path_read+'/'+filename)
+		try:
+			if filename.endswith('.json'): 
+				read_file = open(path_read+'/'+filename, 'r').readlines()
+				twit_list = json_output(read_file) # return a list 
+				features = features + twit_list
+		except:
+			os.remove(path_read+'/'+filename)
+	print len(features)
 	json_out["features"] = features
 	geo_json_dump = json.dumps(json_out, indent=4)
 	#print >> one_json, "eqfeed_callback("
