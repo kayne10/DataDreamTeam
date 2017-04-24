@@ -8,24 +8,34 @@
   <h1>{{title}}</h1>
   <p>Hello</p>
 </div>
-<div id="map"></div>
+<section id="map-container">
+  <div id="map"></div>
+</section>
   <!-- <iframe src="https://api.mapbox.com/styles/v1/tkayne10/cj1tzvn3s001p2soc1pq5qh8u.html?title=true&access_token=pk.eyJ1IjoidGtheW5lMTAiLCJhIjoiY2lwOTVobWx3MDFnNHRjbHl0am95YmhvMSJ9.RSsOrxJBCf89fcrlDJfejg#3.2/35.938249/-447.823369/0" width="1000" height="600"></iframe> -->
-    <table class="table">
-      <thead>
-        <th>Tweet</th>
-        <th>Tweet URL</th>
-        <th>Date Posted</th>
-      </thead>
-      <tbody>
-        {{#each tweets}}
-          <tr>
-            <td>{{this.body}}</td>
-            <td><a href="{{this.link}}">View Description here</a></td>
-            <td>{{this.postedTime}}</td>
-          </tr>
-        {{/each}}
-      </tbody>
-    <table>
+<section id="tweet-index">
+  <form class="form-inline" action="/" method="GET">
+    <div class="form-group">
+      <input type="text" name="search" placeholder="Search job here..." class="form-control">
+      <input type="submit" class="btn btn-default" value="Search">
+    </div>
+  </form>
+  <table class="table">
+    <thead>
+      <th>Tweet</th>
+      <th>Tweet URL</th>
+      <th>Date Posted</th>
+    </thead>
+    <tbody>
+      {{#each tweets}}
+        <tr>
+          <td>{{this.body}}</td>
+          <td><a href="{{this.link}}">View Description here</a></td>
+          <td>{{this.postedTime}}</td>
+        </tr>
+      {{/each}}
+    </tbody>
+  <table>
+</section>
 <script type="text/javascript">
   mapboxgl.accessToken = 'pk.eyJ1IjoidGtheW5lMTAiLCJhIjoiY2lwOTVobWx3MDFnNHRjbHl0am95YmhvMSJ9.RSsOrxJBCf89fcrlDJfejg';
   var map = new mapboxgl.Map({
