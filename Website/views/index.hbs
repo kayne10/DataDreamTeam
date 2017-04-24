@@ -4,21 +4,37 @@
         font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
     }
 </style>
-<div class="header">
-  <h1>{{title}}</h1>
-  <p>Hello</p>
+<div class="jumbotron">
+  <div class="header">
+    <h1>{{title}}</h1>
+    <!-- <i class="fa fa-twitter" aria-hidden="true"></i> -->
+    <img src="/images/birdWhoTells.png" alt="">
+  </div>
+  <div class="btn-group">
+    <a class="btn btn-primary btn-lg" href="#map-container" role="button">Map</a>
+    <a class="btn btn-primary btn-lg" href="#tweet-index" role="button">Search</a>
+    <a class="btn btn-primary btn-lg" href="/about" role="button">Learn more</a>
+  </div>
 </div>
 <section id="map-container">
+  <h3>Find tweeted jobs from all over the world using our Map Data Visualization</h3>
   <div id="map"></div>
 </section>
   <!-- <iframe src="https://api.mapbox.com/styles/v1/tkayne10/cj1tzvn3s001p2soc1pq5qh8u.html?title=true&access_token=pk.eyJ1IjoidGtheW5lMTAiLCJhIjoiY2lwOTVobWx3MDFnNHRjbHl0am95YmhvMSJ9.RSsOrxJBCf89fcrlDJfejg#3.2/35.938249/-447.823369/0" width="1000" height="600"></iframe> -->
 <section id="tweet-index">
+  <center>
   <form class="form-inline" action="/" method="GET">
     <div class="form-group">
       <input type="text" name="search" placeholder="Search job here..." class="form-control">
       <input type="submit" class="btn btn-default" value="Search">
     </div>
   </form>
+  </center>
+  {{#if noMatch }}
+    <div class="col-md-6">
+      {{noMatch}}
+    </div>
+  {{/if}}
   <table class="table">
     <thead>
       <th>Tweet</th>
@@ -47,18 +63,18 @@
   map.on('load', function () {
     // When a click event occurs on a feature in the manytweetjobs layer, open a popup at the
     // location of the feature, with description HTML from its properties.
-    map.on('click', 'manytweetjobs', function (e) {
+    map.on('click', 'dense', function (e) {
         new mapboxgl.Popup()
             .setLngLat(e.features[0].geometry.coordinates)
             .setHTML(e.features[0].properties.body)
             .addTo(map);
     });
     // Change the cursor to a pointer when the mouse is over the manytweetjobs layer.
-    map.on('mouseenter', 'manytweetjobs', function () {
+    map.on('mouseenter', 'dense', function () {
         map.getCanvas().style.cursor = 'pointer';
     });
     // Change it back to a pointer when it leaves.
-    map.on('mouseleave', 'manytweetjobs', function () {
+    map.on('mouseleave', 'dense', function () {
         map.getCanvas().style.cursor = '';
     });
   });

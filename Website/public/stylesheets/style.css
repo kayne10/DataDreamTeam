@@ -1,8 +1,62 @@
+
 body {
-  padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
   color: #00B7FF;
+}
+
+.jumbotron {
+  height: 250px;
+  width: 100%;
+  background: rgb(55, 180, 252);
+  color: white;
+  text-align: center;
+}
+.jumbotron > .header {
+  font-size: 4em;
+  padding: 0 2em;
+  display: flex;
+  margin-top: -0.5em;
+}
+.jumbotron > .header h1 {
+  text-align: center;
+}
+.jumbotron p {
+  margin: 0 auto;
+  font-size: 1.5em;
+  padding: 1em 1em;
+}
+.jumbotron > .buttons {
+  width: 50%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+#tweet-index {
+  padding: 4em 2em;
+}
+#tweet-index > .form-group {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.about-container {
+  text-align: center;
+  width: 90%;
+  margin: 0 auto;
+}
+.about-container p {
+  padding: 1em 1em;
+}
+.about-container img {
+  box-shadow: 0 0 15px;
+}
+.responsive {
+  max-width: 100%;
+}
+section h3 {
+  text-align: center;
 }

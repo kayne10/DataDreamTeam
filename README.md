@@ -1,4 +1,6 @@
-<h1>Data Dream Team</h1>
+<h1>Data Dream Team Presents: Little Bird Told Me</h1>
+
+<img src="websiteScreenshot.png">
 
 <h3>Team Members</h3>
 <ul>
@@ -8,14 +10,14 @@
   <li>Amir Kashipazha</li>
 </ul>
 
-<h2>Frameworks and Tools</h2>
+<h2>Frameworks, Tools, and Architecture</h2>
 <ul>
   <li>GNIP Twitter API</li>
-  <li>Storm</li>
-  <li>CassandraDB</li>
-  <li>Node</li>
-  <li>d3</li>
-  <li>LSA.py</li>
+  <li>MongoDB</li>
+  <li>Mapbox Studio API</li>
+  <li>Nodejs + ExpressJS</li>
+  <li>Docker</li>
+  <li>Amazon Web Services</li>
 </ul>
 
 <h2>Project Vision</h2>

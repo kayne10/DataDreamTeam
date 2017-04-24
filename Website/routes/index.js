@@ -17,6 +17,7 @@ var Tweets = require('../models/tweets');
 //   });
 // });
 
+// try to implement pagination
 router.get('/', function(req, res, next){
   if (req.query.search) {
     const regex = new RegExp(escapeRegex(req.query.search), 'gi');
@@ -24,26 +25,38 @@ router.get('/', function(req, res, next){
       if (err) {
         console.log(err);
       } else {
+        if(result.length < 1) {
+          var noMatch = 'Sorry, there are no birds who tweeted about this job. Please try again.';
+        }
         res.render('index', {
-          title: 'Data Dream Team',
-          tweets: result
+          title: 'Little Bird Told Me',
+          tweets: result,
+          noMatch: noMatch
         });
       }
     }).limit(300);
   } else {
-    // only query a specific amount. DB is too big so use $max
+    // only query a specific amount. DB is too big so use limit() method
     Tweets.find({}, function(err, result){
       if (err) {
         console.log(err);
       } else {
         res.render('index', {
-          title: 'Data Dream Team',
+          title: 'Little Bird Told Me',
           tweets: result
         });
       }
-    }).limit(300);
+    }).limit(20);
   }
 });
+
+// GET about page
+router.get('/about', function(req, res, next){
+  res.render('about', {
+    title: 'Little Bird Told Me'
+  });
+});
+
 
 module.exports = router;
 
