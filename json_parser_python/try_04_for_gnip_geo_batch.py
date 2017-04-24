@@ -75,8 +75,9 @@ def main():
 			write_file = open(path_write+'/'+filename,'w')
 			geo_json = json_output(read_file)
 			geo_json_dump = json.dumps(geo_json, indent=4)
-			print >> write_file, geo_json
-			#read_file.close()
+			#print >> write_file, "eqfeed_callback("
+			print >> write_file, geo_json_dump
+			#print >> write_file, ")"
 			write_file.close()
 			
 main()
