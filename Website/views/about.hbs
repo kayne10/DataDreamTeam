@@ -11,7 +11,60 @@
 </div>
 
 <div class="about-container">
+  <p class="description">In our infrastructure, we set up 9 Mongo nodes in our docker container in order to keep the data safe. The GNIP API fetches pages of data, which then gets stored in Mongo with our PyMongo script. Then we trim the data with another Python script that formats our data in GeoJSON. We use that dataset to render in our Mapbox API, which produces our map visualization. However,
+  we have approximately 600,000 tweets in our map, and we contain a million tweets in our Mongo Database. We create our RESTful and Front-end services in our Node Web Application. The fuzzy search under our map queries the entire one million tweets in our databse. The search checks if your exact input lies within the tweet.</p>
   <p>Here is a snapshot of the entire Big Data Architecture</p>
-  <img src="/images/Capture.jpg" alt="Screenshot of our architecture" class="responsive" width="80%">
+  <img src="/images/Capture.jpg" alt="Screenshot of our architecture" class="responsive snap" width="80%">
   <p>Check out our github repo here <a href="https://github.com/CUBigDataClass/DataDreamTeam">Data Dream Team</a></p>
+  <h3 class="greeting">Meet The Team</h3>
+  <div class="row">
+      <div class="col-sm-6 col-md-3">
+        <div class="thumbnail">
+          <img src="/images/troyIMG.jpg" alt="...">
+          <div class="caption">
+            <h3>Troy Kayne</h3>
+            <div class="social">
+              <a href="https://www.linkedin.com/in/troy-kayne-339838110/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+              <a href="https://github.com/kayne10"><i class="fa fa-github-square" aria-hidden="true"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="thumbnail">
+          <img src="/images/davidIMG.jpg" alt="...">
+          <div class="caption">
+            <h3>David Persico</h3>
+            <div class="social">
+              <a href="https://www.linkedin.com/in/david-persico-cs/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+              <a href="https://github.com/Dape5519"><i class="fa fa-github-square" aria-hidden="true"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="thumbnail">
+          <img src="/images/mattIMG.jpg" alt="...">
+          <div class="caption">
+            <h3>Matt Kaiser</h3>
+            <div class="social">
+              <a href="https://www.linkedin.com/in/matthew-kaiserucb/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+              <a href="https://github.com/mkaiser101"><i class="fa fa-github-square" aria-hidden="true"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-md-3">
+        <div class="thumbnail">
+          <img src="/images/amirIMG.jpg" alt="...">
+          <div class="caption">
+            <h3>Amir Kashipazha</h3>
+            <div class="social">
+              <a href="https://www.linkedin.com/in/amirkashipazha/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+              <a href="https://github.com/amirkashi"><i class="fa fa-github-square" aria-hidden="true"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
 </div>

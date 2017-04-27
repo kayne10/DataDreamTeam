@@ -48,14 +48,32 @@ a {
   width: 90%;
   margin: 0 auto;
 }
+.description {
+  text-align: left;
+  width: 90%;
+  margin: 0 auto;
+}
 .about-container p {
   padding: 1em 1em;
 }
-.about-container img {
+.snap {
   box-shadow: 0 0 15px;
+}
+.about-container .social {
+  font-size: 2em;
+}
+.about-container .greeting {
+  padding: 1em 0;
 }
 .responsive {
   max-width: 100%;
+}
+.thumbnail {
+  border: none;
+}
+.thumbnail img {
+  border-radius: 50%;
+  box-shadow: 0 0 15px;
 }
 section h3 {
   text-align: center;
