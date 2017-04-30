@@ -19,7 +19,7 @@
   $ npm install
 </code>
 
-<p>Once installed, run application on localhost:3000.</p>
+<p>Once installed, make sure you have <code>mongod</code> running. Then, run application on localhost:3000.</p>
 
 <code>
   $ npm start
